@@ -1,0 +1,193 @@
+.content {
+    background-image: linear-gradient(to top, #12214b, #3a316c);
+    padding-top: 100px;
+    padding-bottom: 120px;
+}
+
+.search {
+    border-radius: 5px;
+    background-color: #03c3f4;
+    color: white;
+    font-weight: bold;
+    letter-spacing: 1.2px;
+    width: 100%;
+}
+
+.search:hover {
+    background-color: #007cc2;
+}
+
+#search_address {
+    background: transparent;
+    font-family: Lato;
+    color: white;
+}
+
+input#search_address::placeholder {
+    color: white;
+    letter-spacing: 1.2px;
+}
+
+.card_group {
+    margin: auto 50px;
+}
+
+.card_group .card {
+    margin-top: 30px;
+}
+
+.card {
+    text-align: center;
+    border: none;
+    background: transparent;
+}
+
+.card-body {
+    height: 150px;
+    position: relative;
+    background-color: #21315c;
+    border-radius: 10px;
+    box-shadow: 0px 3px 43px 0 rgba(0, 0, 0, 0.14);
+}
+
+.card-body div {
+    font-size: 14px;
+    font-family: Lato;
+    line-height: 1.2;
+    padding: 5px 0;
+    color: #02c2f3;
+}
+
+.card-body p {
+    margin: 0;
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 30px;
+}
+
+.fight_explorer_status,
+.fight_explorer_updates {
+    margin-top: 100px;
+}
+
+.fight_explorer_text {
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    margin-bottom: 70px;
+}
+
+.fight_explorer_box .table {
+    position: relative;
+}
+
+.fight_explorer_box .table:before {
+    content: '';
+    position: absolute;
+    background: linear-gradient(to top, #8860d0, #5580e9 54%, #5ab8eb);
+    width: 7px;
+    height: 100%;
+}
+
+td {
+    border-top: 0px !important;
+}
+
+tr:nth-child(even) {
+    background-color: #1b2a52;
+}
+
+tr:nth-child(odd) {
+    background-color: #23335e;
+}
+
+.fight_explorer_box td.column_1 {
+    padding-left: 50px;
+    font-family: Lato;
+    font-weight: 900;
+    letter-spacing: 2px;
+    text-align: left;
+    color: #03c3f4;
+}
+
+.fight_explorer_box td.column_2 {
+    border-left: 1px solid #12214b;
+    padding-left: 50px;
+    font-family: Lato;
+    font-weight: 900;
+    letter-spacing: 2px;
+    text-align: left;
+    color: white;
+}
+
+.fight_updates_text {
+    text-align: center;
+    font-size: 35px;
+    margin: auto auto 50px auto;
+    display: table;
+    background-image: linear-gradient(to right, #8860d0, #5580e9 54%, #5ab8eb), linear-gradient(#03c3f4, #03c3f4);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.p-title {
+    padding: 0 .75rem;
+}
+
+.title {
+    display: flex;
+    position: relative;
+    font-family: Lato;
+    font-size: 20px;
+    color: #12214b;
+    background-image: linear-gradient(to right, #13c5ae, #02c9ff);
+    padding: 5px 0;
+    margin-bottom: 30px;
+}
+
+.title:after {
+    content: '';
+    position: absolute;
+    top: -14px;
+    left: 50%;
+    border-left: 15px solid transparent;
+    border-right: 15px solid transparent;
+    border-bottom: 15px solid #0ac7d8;
+    z-index: 999;
+}
+
+.fight_updates_box table {
+    font-family: Lato;
+    font-size: 18px;
+    line-height: initial;
+}
+
+@media (max-width: 767px) {
+    .content {
+        padding-top: unset !important;
+    }
+    .fight_explorer_box td.column_1,
+    .fight_explorer_box td.column_2 {
+        padding-left: 20px !important;
+    }
+    .fight_updates_text {
+        font-size: 30px !important;
+    }
+    .fight_updates_box table {
+        font-size: 14px !important;
+    }
+    .fight_updates_box .title {
+        font-size: 16px !important
+    }
+}
+
+@media(min-width: 1500px) {
+    .card_group {
+        width: 1400px;
+        margin: auto !important;
+    }
+}

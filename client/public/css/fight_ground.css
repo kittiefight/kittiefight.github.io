@@ -1,0 +1,1252 @@
+@media only screen and (orientation:portrait) and (max-width: 767px) {
+    /* html {
+        height: 100vw;
+        width: 100vh;
+        -webkit-transform: rotate(90deg);
+        -moz-transform: rotate(90deg);
+        -o-transform: rotate(90deg);
+        -ms-transform: rotate(90deg);
+        transform: rotate(90deg);
+    } */
+}
+
+.card {
+    border: none;
+    background-color: transparent;
+}
+
+.card-head {
+    width: 100%;
+    font-size: 25px;
+    font-weight: bold;
+    color: #ffffff;
+    padding: 10px;
+    border-radius: 30px 30px 0 0;
+    letter-spacing: 1.2px;
+}
+
+.card-body {
+    background-color: #f7f8ff;
+}
+
+.card-footer {
+    padding: 0px 45px 30px 45px;
+    background-color: white;
+    border-radius: 0 0 30px 30px !important;
+    border: none;
+}
+
+.fight {
+    position: relative;
+}
+
+.fight_img {
+    width: 100%;
+    height: 100%;
+    min-height: 630px;
+}
+
+.vs,
+.betNow_mobile {
+    display: none;
+}
+
+@media (min-width: 1650px) {
+    .kitty .card {
+        width: 320px;
+    }
+    .kitty .card img {
+        width: 90%;
+    }
+}
+
+@media (max-width: 1645px) and (min-width: 1400px) {
+    .kitty .card {
+        width: 300px;
+    }
+    .kitty .card img {
+        width: 80%;
+    }
+}
+
+@media (max-width: 1399px) and (min-width: 1200px) {
+    .kitty .card {
+        width: 280px;
+    }
+    .kitty .card img {
+        width: 70%;
+    }
+    .card-footer {
+        padding-top: unset !important
+    }
+}
+
+@media (min-width: 1300px) {
+    .clock {
+        font-size: 18px;
+    }
+    .min {
+        margin: 0 40px;
+    }
+    .clock {
+        padding: 15px 40px 10px 40px;
+    }
+    .user {
+        font-size: 20px;
+    }
+    #kittieName_1,
+    #kittieName_2 {
+        font-size: 20px;
+    }
+    .statusKittie {
+        font-size: 24px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1299px) {
+    .kitty .card-head {
+        font-size: 16px !important;
+        /* border-radius: 15px 15px 0 0 !important; */
+    }
+    .kitty .card-footer {
+        padding: 0px 25px 25px 25px !important;
+        /* border-radius: 0 0 15px 15px !important; */
+    }
+    .clock {
+        font-size: calc(100vw * 17 / 1301);
+        padding: 10px 30px 7px 30px;
+    }
+    .min {
+        margin: 0px calc(100vw * 47 / 1921);
+    }
+}
+
+@media (min-width: 1024px) and (max-width: 1299px) {
+    .kitty .card img {
+        width: 70% !important;
+    }
+    .kitty .card {
+        width: 230px;
+    }
+    .user {
+        font-size: 16px;
+    }
+    #kittieName_1,
+    #kittieName_2 {
+        font-size: 16px;
+        padding: 7px !important;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1023px) {
+    .kitty .card img {
+        width: 65% !important;
+    }
+    .kitty .card {
+        width: 220px;
+    }
+    .user {
+        font-size: 14px;
+    }
+    #kittieName_1,
+    #kittieName_2 {
+        font-size: 14px;
+    }
+    #kittie_1 {
+        margin-left: 5px;
+    }
+    .supportImg img {
+        width: 100px !important;
+    }
+    .mt-time {
+        margin-top: 50px !important;
+    }
+    .sendBet {
+        margin-bottom: 50px !important;
+    }
+    .inner-right {
+        margin-left: 30px !important;
+    }
+    .inner {
+        padding-right: unset !important;
+    }
+    .x-small {
+        font-size: 18px !important;
+    }
+    .normal,
+    .withdraw {
+        font-size: 20px !important
+    }
+}
+
+@media (max-width: 1199px) {
+    .kittieStatus_1,
+    .kittieStatus_2 {
+        margin: 7px 0 !important;
+    }
+    .statusKittie {
+        font-size: 18px;
+    }
+    #kittieBar_2::after,
+    #kittieBar_1::after {
+        font-size: 16px !important;
+    }
+    #kittieBar_1::after {
+        top: -24px !important;
+    }
+}
+
+@media (max-width: 767px) {
+    .statusKittie {
+        font-size: 16px !important;
+        width: 30px !important;
+        float: left;
+    }
+    .progress {
+        margin-top: 3px;
+    }
+    .kittieStatus_1,
+    .kittieStatus_2 {
+        margin: 3px 0 !important;
+    }
+    .realTime {
+        background-color: black;
+    }
+    .realTime_content {
+        position: relative !important;
+        background-color: black;
+        margin-top: 20px;
+        padding: 30px 10%;
+    }
+    .procentage {
+        display: none;
+    }
+    .realTime_img {
+        display: none;
+    }
+    .inner {
+        padding-right: 25px !important;
+    }
+    .min {
+        margin: 0px 18px;
+    }
+    .clock {
+        padding: 10px 10px 7px 10px;
+        right: unset !important;
+        width: 200px;
+        height: 100px;
+    }
+    .clock_count {
+        font-size: 12px !important;
+    }
+    #clock {
+        font-size: 40px !important;
+        line-height: 1.3 !important;
+    }
+    .time {
+        font-size: 14px !important;
+    }
+    .line {
+        display: none;
+    }
+    .betNow_mobile a {
+        contain: content;
+        padding: 5px;
+        color: white;
+        font-size: 20px;
+        background-image: linear-gradient(to right, #8860d0, #5580e9 54%, #5ab8eb);
+        border-radius: 7px;
+    }
+    .mt-30 {
+        margin-top: 30px;
+    }
+    .inner-right {
+        margin-left: 0 !important;
+    }
+    .mt-time {
+        margin-top: 40px !important;
+    }
+    .fight_img {
+        display: none;
+    }
+    .supportImg img {
+        width: 160px !important
+    }
+    .section-container {
+        position: relative !important;
+    }
+    .fight {
+        background-color: #edf0fd;
+    }
+    .kitty {
+        margin-left: unset !important;
+    }
+    .kitty .card {
+        width: 80%;
+        margin: auto;
+        box-shadow: 0 0 10px 0 rgba(0, 0, 0, .7);
+        border-radius: 15px;
+    }
+    .kitty .card-body img {
+        width: 80%;
+    }
+    .fight_content {
+        height: 100% !important;
+    }
+    .mx-vs {
+        margin: unset !important;
+    }
+    .vs {
+        display: block !important;
+        margin: 75px auto;
+        width: 55px;
+    }
+    .card-head {
+        font-size: 16px !important;
+        border-radius: 15px 15px 0 0 !important;
+        padding: 5px !important;
+    }
+    .card-footer {
+        padding: 0px 10px 10px 10px !important;
+        border-radius: 0 0 15px 15px !important;
+    }
+    .user,
+    #kittieName_1,
+    #kittieName_2 {
+        font-size: 12px !important;
+        padding: 5px !important;
+        border-radius: 5px !important;
+    }
+    .status {
+        margin-top: 0px !important;
+        padding: 25px 40px;
+        background-color: #31323e;
+        width: 100vw !important;
+        left: unset !important;
+        bottom: unset !important;
+    }
+    .justify-content-md-center {
+        padding-left: 20px;
+    }
+    .real_time {
+        font-size: 26px;
+    }
+    .damageKind {
+        font-size: 18px;
+        margin-left: 28px;
+    }
+    .damagePoint {
+        font-size: 14px;
+        margin-left: 30px;
+        padding-bottom: 5px;
+    }
+    .statusUpdates {
+        line-height: 1.3
+    }
+    .statusUpdates .pl-1 img {
+        width: 18px;
+        margin-top: 3px;
+    }
+    .line_1 {
+        left: 13px;
+        top: 10px;
+    }
+    .shortClock {
+        font-size: 18px;
+        vertical-align: middle;
+    }
+    .startClock img {
+        width: 75px;
+    }
+    .startDate {
+        font-size: 28px;
+    }
+    .startClock .startTime {
+        font-size: 28px;
+    }
+    .startText {
+        top: 72px;
+        font-size: 18px;
+    }
+    .lineTime img {
+        width: 20px;
+    }
+    .ml_1 {
+        margin-left: -1px;
+    }
+    .betName,
+    .gradient_text {
+        margin-bottom: 0px !important;
+    }
+    .betText {
+        line-height: 1.5 !important;
+    }
+    .betNow {
+        margin: 10px 0 !important;
+    }
+    .diamond_2 {
+        margin-top: 2px !important;
+    }
+    .sendBet {
+        margin-bottom: 30px !important;
+    }
+    .earning {
+        font-size: 28px !important;
+        border-radius: 10px 10px 0 0 !important;
+    }
+}
+
+.fight_content {
+    position: relative;
+    width: 100%;
+    height: -webkit-fill-available;
+}
+
+.clock {
+    object-fit: contain;
+    opacity: 0.82;
+    line-height: 1.3;
+    background-color: #0d1b3d;
+    position: absolute;
+    right: 0px;
+    margin-top: calc(100% / 1921 * 1301 * 0.04);
+    text-align: center;
+    border-radius: 0px 0px 0px 30px;
+}
+
+.clock_count {
+    font-size: 1em;
+    font-weight: 500;
+    text-align: center;
+    color: #0dc3ff;
+    letter-spacing: 1px;
+}
+
+.mx-vs {
+    margin: 0px calc(100vw * 160 / 1921);
+}
+
+#clock {
+    line-height: 1;
+    font-size: 3.3em;
+    font-weight: bold;
+    color: #60bbf7;
+}
+
+.time {
+    color: white;
+    font-size: 1em;
+    letter-spacing: 2px;
+}
+
+.min {
+    letter-spacing: 2px;
+}
+
+.kitty {
+    margin-left: calc(100vw * 18 / 1970);
+    margin-top: calc(100vw * 263 / 1921);
+    text-align: center;
+    /* letter-spacing: 2px; */
+}
+
+#kittie_1 .card-head {
+    background-image: linear-gradient(to right, #8860d0, #5580e9 54%, #5ab8eb);
+}
+
+#kittie_2 .card-head {
+    background-image: linear-gradient(to right, #f07739, #e85256 54%, #e3366b);
+}
+
+#kittieName_1 {
+    padding: 10px;
+    border-radius: 10px;
+    color: white;
+    cursor: pointer;
+    background-image: linear-gradient(to right, #00d4bd, #1accfc);
+}
+
+#kittieName_2 {
+    padding: 10px;
+    border-radius: 10px;
+    color: white;
+    cursor: pointer;
+    background-image: linear-gradient(to right, #f07739, #e85256 54%, #e3366b);
+}
+
+#kittieName_1:hover,
+#kittieName_2:hover,
+.sendBet:hover,
+.withdraw:hover {
+    background-image: linear-gradient(to top, #12214b, #3a316c);
+}
+
+.divide {
+    border-bottom: 1px solid #ddd;
+}
+
+.user {
+    line-height: 1.5;
+    padding: 10px 0;
+    color: #14093e;
+}
+
+.status {
+    position: absolute;
+    /* bottom: calc(100vw / 1921 * 100); */
+    margin-top: calc(100% / 1921 * 1301 * 0.04);
+    width: 40%;
+    left: 30%;
+}
+
+.statusKittie {
+    font-weight: bold;
+    color: white;
+    display: table-cell;
+    width: 45px;
+}
+
+.kittieStatus_1,
+.kittieStatus_2 {
+    display: table;
+    width: 100%;
+    margin: 15px 0;
+}
+
+#kittieBar_1::after {
+    content: '75%';
+    color: white;
+    display: block;
+    font-size: 20px;
+    width: 0px;
+    height: 0px;
+    position: absolute;
+    right: 10px;
+    top: -30px;
+    z-index: 999;
+}
+
+#kittieBar_2::after {
+    content: '25%';
+    color: white;
+    display: block;
+    font-size: 20px;
+    width: 0px;
+    height: 0px;
+    position: absolute;
+    right: 10px;
+    bottom: -5px;
+    z-index: 999;
+}
+
+.progress {
+    overflow: inherit;
+    background-color: #ffffff;
+}
+
+.progress-bar {
+    position: relative;
+    background-image: linear-gradient(to right, #00d4bd, #1accfc);
+}
+
+#firstBar::after {
+    content: '75';
+    color: #1accfc;
+    display: block;
+    font-size: 18px;
+    width: 0px;
+    height: 0px;
+    position: absolute;
+    bottom: -5px;
+    left: 72%;
+    border-left: 4px solid transparent;
+    border-right: 3px solid transparent;
+    border-top: 5px solid #1accfc;
+    z-index: 999;
+}
+
+#secondBar {
+    position: relative;
+    background-image: linear-gradient(to right, #8860d0, #5580e9 54%, #5ab8eb);
+}
+
+#secondBar::after {
+    content: '35';
+    color: #5580e9;
+    display: block;
+    font-size: 18px;
+    width: 0px;
+    height: 0px;
+    position: absolute;
+    bottom: -5px;
+    left: 72%;
+    border-left: 4px solid transparent;
+    border-right: 3px solid transparent;
+    border-top: 5px solid #5580e9;
+    z-index: 999;
+}
+
+.card .progress {
+    background-color: #eeeeee;
+}
+
+.statusUpdates {
+    position: relative;
+}
+
+.statusUpdates .pl-1 img {
+    float: left;
+}
+
+.detailInfo {
+    background-color: #edf0fd;
+}
+
+.realTime {
+    position: relative;
+}
+
+.realTime_content {
+    position: absolute;
+}
+
+.realTime_img {
+    width: 100%;
+    height: 840px;
+}
+
+.real_time {
+    margin-bottom: 5px;
+    color: red;
+}
+
+.shortClock {
+    /* font-size: 20px; */
+    color: white;
+    vertical-align: middle;
+    padding-left: 10px;
+    letter-spacing: 6px;
+}
+
+.damagePoint {
+    color: white;
+}
+
+.line_1 {
+    position: absolute;
+    height: calc(100% - 30px);
+    border-left: 1px solid #cdd5d9;
+}
+
+.damageKind {
+    color: green;
+}
+
+.line {
+    float: left;
+    width: 2px;
+    height: 100%;
+    background: url(../img/line.png);
+    margin-right: -15px;
+}
+
+.lineTime {
+    border: 0px;
+    border-left: 1px solid #aaa;
+    border-style: dashed;
+}
+
+.startClock {
+    margin-top: 20px;
+    text-align: center;
+    line-height: 1.2;
+}
+
+.startDate {
+    color: green;
+}
+
+.startTime {
+    color: red;
+    font-weight: bold;
+}
+
+.startClock img {
+    padding-bottom: 5px;
+}
+
+.startText {
+    position: absolute;
+    padding-left: 5px;
+    color: white;
+}
+
+.betName {
+    font-size: 54px;
+    margin-bottom: 50px;
+    text-align: center;
+    color: #14093e;
+}
+
+.gradient_text {
+    display: table;
+    background-image: linear-gradient(to right, #8860d0, #5580e9 54%, #5ab8eb);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 35px;
+    font-weight: bold;
+    margin-bottom: 49px;
+    padding-left: 30px;
+}
+
+.diamond_2 {
+    width: 0;
+    height: 0;
+    float: left;
+    margin-top: 12px;
+    border: 10px solid transparent;
+    border-bottom-color: #738ac3;
+    position: relative;
+    top: -8px;
+}
+
+.diamond_2:after {
+    content: '';
+    position: absolute;
+    left: -10px;
+    top: 10px;
+    width: 0;
+    height: 0;
+    border: 10px solid transparent;
+    border-top-color: #738ac3;
+}
+
+.betText {
+    color: #14093e;
+    font-size: 20px;
+    line-height: 2.4;
+    padding-left: 25px;
+    padding-right: 18px;
+    margin-bottom: 20px;
+}
+
+.betNow {
+    color: #14093e;
+    font-size: 25px;
+    margin-top: 80px;
+    margin-bottom: 20px;
+}
+
+.inner {
+    padding-left: 25px;
+    padding-right: 50px;
+    font-size: 18px;
+}
+
+.sendBet {
+    border-radius: 10px;
+    padding: 10px;
+    border: none;
+    margin-bottom: 100px;
+    text-align: center;
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    cursor: pointer;
+    background-image: linear-gradient(to right, #8860d0, #5580e9 54%, #5ab8eb);
+}
+
+.groupBet {
+    padding: 50px 0;
+    background-color: #edf0fd;
+}
+
+.groupBet select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    /* appearance: none; */
+    border: 1px solid #ced4da;
+    background: url(../img/arrow.png) no-repeat 96% white;
+}
+
+.form-control:focus {
+    box-shadow: none;
+}
+
+.form-control {
+    font-size: 18px;
+}
+
+.input-group {
+    border-radius: 5px;
+}
+
+.mail.input-group-text {
+    border-radius: 5px;
+    padding: 3px 39px;
+    font-size: 20px;
+    color: white;
+    background-color: #5757c4;
+}
+
+.twitter.input-group-text {
+    border-radius: 5px;
+    padding: 2px 39px;
+    font-size: 22px;
+    color: white;
+    background-color: #00abf0;
+}
+
+.facebook.input-group-text {
+    border-radius: 5px;
+    padding: 3px 43px;
+    font-size: 21px;
+    color: white;
+    background-color: #1443a3;
+}
+
+.file {
+    font-size: 18px;
+    border: none;
+    height: fit-content;
+    background-color: white;
+}
+
+.input-group input {
+    border: none;
+}
+
+.fightOver {
+    font-size: 48px;
+    color: #14093e;
+}
+
+.mt-time {
+    margin-top: 150px;
+    text-align: center;
+    line-height: 1.2;
+}
+
+.inner-right {
+    margin-left: 80px;
+}
+
+#chart {
+    margin-bottom: 40px;
+    position: relative;
+    z-index: 999;
+}
+
+#chartjs-tooltip {
+    opacity: 1;
+    position: absolute;
+    background: rgba(0, 0, 0, .7);
+    color: white;
+    border-radius: 3px;
+    -webkit-transition: all .1s ease;
+    transition: all .1s ease;
+    pointer-events: none;
+    -webkit-transform: translate(-50%, 0);
+    transform: translate(-50%, 0);
+}
+
+.chartjs-tooltip-key {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+}
+
+canvas {
+    display: block;
+    max-width: 800px;
+}
+
+.supportImg {
+    position: absolute;
+    top: 51%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: -1;
+}
+
+.supportImg img {
+    width: 200px;
+}
+
+.earning {
+    font-size: 28px;
+    margin-top: 80px;
+    text-align: center;
+    border-radius: 10px 10px 0 0;
+    background-image: linear-gradient(to right, #8860d0, #5580e9 54%, #5ab8eb);
+}
+
+.inner-right .card-body {
+    padding: 30px;
+    border-radius: 0 0 10px 10px;
+    box-shadow: 0 0 1px 0 rgba(0, 0, 0, .5);
+}
+
+.inner-right .card-body input {
+    background-color: #eee;
+}
+
+.withdraw {
+    border: none;
+    padding: 10px;
+    font-size: 24px;
+    cursor: pointer;
+    font-weight: bold;
+    color: white;
+    border-radius: 10px;
+    background-image: linear-gradient(133deg, #00d4bd, #1accfc);
+}
+
+.slick-slide img {
+    display: unset;
+}
+
+.procentage {
+    position: absolute;
+    bottom: 0;
+}
+
+.procentage img {
+    width: 100%;
+}
+
+@media (min-width: 1551px) {
+    .procentage {
+        width: 66%;
+        margin-left: 17%;
+    }
+    .procentage img {
+        height: 330px;
+    }
+    .realTime_content {
+        width: 54%;
+        margin-left: 25%;
+        bottom: 20px;
+    }
+    .real_time {
+        font-size: 30px;
+    }
+    .damageKind {
+        font-size: 20px;
+        margin-left: 28px;
+    }
+    .damagePoint {
+        font-size: 18px;
+        margin-left: 30px;
+        padding-bottom: 10px;
+    }
+    .statusUpdates .pl-1 img {
+        width: 22px;
+        margin-top: 3px;
+    }
+    .line_1 {
+        left: 15px;
+        top: 10px;
+    }
+    .lineTime {
+        padding-top: 5px;
+    }
+    .shortClock {
+        font-size: 20px;
+    }
+    .startClock img {
+        width: 80px;
+    }
+    .startDate {
+        font-size: 30px;
+    }
+    .startClock .startTime {
+        font-size: 30px;
+    }
+    .startText {
+        top: 80px;
+        font-size: 20px;
+    }
+}
+
+@media (min-width: 1200px) and (max-width: 1550px) {
+    .procentage {
+        width: 76%;
+        margin-left: 12%;
+    }
+    .procentage img {
+        height: 250px;
+    }
+    .realTime_content {
+        width: 63%;
+        margin-left: 20%;
+        bottom: 10px;
+    }
+    .real_time {
+        font-size: 26px;
+    }
+    .damageKind {
+        font-size: 18px;
+        margin-left: 28px;
+    }
+    .damagePoint {
+        font-size: 14px;
+        margin-left: 30px;
+        padding-bottom: 5px;
+    }
+    .statusUpdates {
+        line-height: 1.3
+    }
+    .statusUpdates .pl-1 img {
+        width: 18px;
+        margin-top: 3px;
+    }
+    .line_1 {
+        left: 13px;
+        top: 10px;
+    }
+    .lineTime {
+        padding-top: 5px;
+    }
+    .shortClock {
+        font-size: 18px;
+        vertical-align: middle;
+    }
+    .startClock img {
+        width: 75px;
+    }
+    .startDate {
+        font-size: 28px;
+    }
+    .startClock .startTime {
+        font-size: 28px;
+    }
+    .startText {
+        top: 72px;
+        font-size: 18px;
+    }
+    .lineTime img {
+        width: 20px;
+    }
+}
+
+@media (min-width: 1100px) and (max-width: 1199px) {
+    .procentage img {
+        height: 200px !important;
+    }
+    .procentage {
+        width: 76%;
+        margin-left: 12%;
+    }
+    .realTime_content {
+        width: 63%;
+        margin-left: 19%;
+        bottom: 5px;
+    }
+}
+
+@media (min-width: 1024px) and (max-width: 1199px) {
+    .procentage {
+        width: 76%;
+        margin-left: 12%;
+    }
+    .procentage img {
+        height: 180px;
+    }
+    .realTime_content {
+        width: 64%;
+        margin-left: 20%;
+        bottom: 5px;
+    }
+    .real_time {
+        font-size: 18px;
+    }
+    .damageKind {
+        font-size: 16px;
+        margin-left: 28px;
+    }
+    .damagePoint {
+        font-size: 12px;
+        margin-left: 30px;
+        /* padding-bottom: 5px; */
+    }
+    .statusUpdates {
+        line-height: 1.3
+    }
+    .statusUpdates .pl-1 img {
+        width: 16px;
+        margin-top: 0px;
+    }
+    .line_1 {
+        left: 12px;
+        top: 10px;
+    }
+    .lineTime {
+        padding-top: 5px;
+    }
+    .shortClock {
+        font-size: 16px;
+        vertical-align: middle;
+    }
+    .startClock img {
+        width: 50px;
+    }
+    .startDate {
+        font-size: 18px;
+    }
+    .startClock .startTime {
+        font-size: 18px;
+    }
+    .startText {
+        top: 50px;
+        font-size: 12px;
+    }
+    .lineTime img {
+        width: 20px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1023px) {
+    .procentage {
+        width: 84%;
+        margin-left: 8%;
+    }
+    .procentage img {
+        height: 180px;
+    }
+    .realTime_content {
+        width: 70%;
+        margin-left: 15%;
+        bottom: 7px;
+    }
+    .real_time {
+        font-size: 18px;
+    }
+    .damageKind {
+        font-size: 16px;
+        margin-left: 28px;
+    }
+    .damagePoint {
+        font-size: 12px;
+        margin-left: 30px;
+        /* padding-bottom: 5px; */
+    }
+    .statusUpdates {
+        line-height: 1.3
+    }
+    .statusUpdates .pl-1 img {
+        width: 16px;
+        margin-top: 0px;
+    }
+    .line_1 {
+        left: 12px;
+        top: 10px;
+    }
+    .lineTime {
+        /* padding-top: 5px; */
+    }
+    .shortClock {
+        font-size: 16px;
+        vertical-align: middle;
+    }
+    .startClock img {
+        width: 50px;
+    }
+    .startDate {
+        font-size: 16px;
+    }
+    .startClock .startTime {
+        font-size: 16px;
+    }
+    .startText {
+        top: 50px;
+        font-size: 12px;
+    }
+    .lineTime img {
+        width: 20px;
+    }
+}
+
+@media (max-width: 575px) {
+    .betText,
+    .personal .x-small,
+    .personal div.col-6 {
+        font-size: 16px !important
+    }
+    .justify-content-md-center {
+        -webkit-box-pack: center!important;
+        -ms-flex-pack: center!important;
+        justify-content: center!important;
+    }
+    .col-md-auto {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 auto;
+        flex: 0 0 auto;
+        width: auto;
+        max-width: none;
+    }
+    #doughnut-chart {
+        width: 340px !important;
+        height: 340px !important;
+        margin: auto;
+    }
+    .kitty .card {
+        margin: unset !important;
+        width: 35% !important;
+    }
+    .clock {
+        margin-top: 105px !important;
+        left: calc(50% - 83px);
+        border-radius: 0 0 7px 7px !important;
+    }
+    .kitty {
+        margin-top: 220px !important;
+    }
+    .betNow_mobile {
+        margin-top: 20px;
+        width: 100px;
+        display: block !important;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 767px) {
+    .justify-content-md-center {
+        -webkit-box-pack: center!important;
+        -ms-flex-pack: center!important;
+        /* justify-content: center!important; */
+        padding-left: unset !important;
+        /* width: 100%; */
+        margin-left: 15px;
+    }
+    .col-md-auto {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 auto;
+        flex: 0 0 auto;
+        width: auto;
+        max-width: none;
+    }
+    #doughnut-chart {
+        width: 340px !important;
+        height: 340px !important;
+        margin: auto;
+    }
+    .kitty .card {
+        margin: unset !important;
+        width: 22% !important;
+    }
+    .betNow_mobile {
+        margin-left: calc(28% - 130px);
+        width: 200px;
+        margin-top: 160px;
+        display: block !important;
+    }
+    .clock {
+        margin-top: 150px !important;
+        left: calc(72% - 38px);
+        border-radius: 7px !important;
+    }
+    .kitty {
+        margin-top: 120px !important;
+    }
+}
