@@ -71,7 +71,7 @@ const Footer = () => (
               <div className="need-help-text">
                 <span>
                   If you need help with something else please see our fully
-                  searchable FAQs or drop us a line at <a href="mailto:hi@kittiefight.com">hi@kittiefight.com</a> and we&#39;ll be happy to help you out!
+                  searchable FAQs or drop us a line at <a href="mailto:kittieFight@protonmail.com">kittieFight@protonmail.com</a> and we&#39;ll be happy to help you out!
                 </span>
               </div>
             </div>

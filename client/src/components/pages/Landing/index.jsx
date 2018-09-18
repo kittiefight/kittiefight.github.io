@@ -47,19 +47,19 @@ class Landing extends Component {
                           className="color_4 large
                            font-weight-bold display_table"
                         >
-                          Fight your
+                          Win Tokens & Eth!
                         </div>
                         <div
                           className="color_4 large
                            font-weight-bold display_table"
                         >
-                          CryptoKitties
+                          Fighting Cryptokitties
                         </div>
                         <div
                           className="color_4 large
                            font-weight-bold display_table"
                         >
-                          to win precious tokens & Eth!
+                          Cats
                         </div>
                         <div
                           className="my-3 color_7
