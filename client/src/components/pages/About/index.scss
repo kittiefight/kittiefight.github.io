@@ -1,0 +1,420 @@
+#about-page {
+  /* about css */
+  .content_tab{
+    background: url(~public/img/pattern-kat.png);
+    height: 160px;
+    background-size: 100%;
+    position: relative;
+
+    .tab{
+      width: fit-content;
+      margin: 0;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+    }
+
+    ul{
+      list-style-type: none;
+      display: flex;
+      padding: unset;
+    }
+
+    li{
+      padding: 5px 20px;
+      border: 1px solid #ddd;
+      background: white;
+      border-radius: 5px;
+
+      img{
+        width: 35px;
+      }
+
+      span{
+        margin-left: 10px;
+        font-weight: bold;
+        color: #14093e;
+      }
+    }
+  }
+
+  @media (min-width: 1200px) and (min-width: 992px){
+    .content .container {
+      max-width: 900px;
+    }
+  }
+
+  @media (max-width: 767px){
+    .content_1{
+      padding: 50px 20px !important;
+    }
+    .content_tab .tab span{
+      display: none;
+    }
+  }
+
+  .content_1{
+    padding: 50px;
+    /*margin-bottom: 300px;*/
+
+    img{
+      width: 150px;
+    }
+
+    p{
+      line-height: 2;
+      text-align: center;
+    }
+  }
+
+  .arrow_down {
+    position: absolute;
+    bottom: -15px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 20px;
+    width: 45px;
+    background: white;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+
+    i {
+      font-size: 30px;
+      color: #B1BAF1;
+      margin-left: 13px;
+    }
+  }
+
+  .about_img{
+    text-align: center;
+  }
+
+  .team{
+    margin: 50px auto;
+  }
+
+  .team_head{
+    display: table;
+    margin: auto;
+    font-size: 35px;
+    margin-bottom: 15px;
+    background-image: linear-gradient(to right, #8860d0, #5580e9 54%, #5ab8eb);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: bold;
+  }
+
+  .team_bottom {
+    p{
+      text-align: left
+    }
+
+    .team_head{
+      margin: unset;
+      font-size: 30px;
+      line-height: 1.2;
+    }
+  }
+
+  .team_bottom_text{
+    line-height: 2;
+
+    p{
+      font-size: 20px;
+      margin-bottom: unset;
+      font-weight: bold;
+      color: #14093e
+    }
+  }
+
+  .team_member{
+    padding: 15px;
+    border:1px solid #aaa;
+    border-radius: 5px;
+    text-align: center;
+
+    &__avatar {
+      width: 100px;
+      height: 100px;
+      margin:auto;
+      margin-bottom: 15px;
+      // clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
+      clip-path: polygon(40% 92.32051%, 43.1596% 93.79385%, 46.52704% 94.69616%, 50% 95%, 53.47296% 94.69616%, 56.8404% 93.79385%, 60% 92.32051%, 81.65064% 79.82051%, 84.50639% 77.82089%, 86.97152% 75.35575%, 88.97114% 72.5%, 90.44449% 69.3404%, 91.34679% 65.97296%, 91.65064% 62.5%, 91.65064% 37.5%, 91.34679% 34.02704%, 90.44449% 30.6596%, 88.97114% 27.5%, 86.97152% 24.64425%, 84.50639% 22.17911%, 81.65064% 20.17949%, 60% 7.67949%, 56.8404% 6.20615%, 53.47296% 5.30384%, 50% 5%, 46.52704% 5.30384%, 43.1596% 6.20615%, 40% 7.67949%, 18.34936% 20.17949%, 15.49361% 22.17911%, 13.02848% 24.64425%, 11.02886% 27.5%, 9.55551% 30.6596%, 8.65321% 34.02704%, 8.34936% 37.5%, 8.34936% 62.5%, 8.65321% 65.97296%, 9.55551% 69.3404%, 11.02886% 72.5%, 13.02848% 75.35575%, 15.49361% 77.82089%, 18.34936% 79.82051%);
+    }
+
+    img{
+      width: 100px;
+    }
+  }
+
+  .member_name{
+    color: #546591;
+    font-weight: bold;
+    font-size: 20px;
+  }
+
+  .member_desc{
+    color: #666;
+  }
+
+  .slick-prev{
+    position: absolute;
+    top: 50%;
+    left: -25px;
+    transform: translate(0, -50%);
+  }
+
+  .slick-next{
+    position: absolute;
+    top: 50%;
+    right: -25px;
+    transform: translate(0, -50%);
+  }
+
+  .slick-arrow{
+    background: white;
+    cursor: pointer;
+  }
+
+  .slick-arrow img{
+    width: 15px;
+  }
+
+  .slick-arrow:focus{
+    outline: unset;
+  }
+
+  /* technical css */
+  @media (max-width: 767px){
+    .timeLine_blog {
+      margin-left: unset !important;
+      margin-right: unset !important;
+      width: 100% !important;
+    }
+    .technical_bottom_img{
+      margin-top: -10px;
+    }
+  }
+  .technical_top_header{
+    line-height: 1;
+    padding-top: 25px;
+  }
+  .content_2{
+    background: url(~public/img/pattern-kat.png);
+    background-size: 100%;
+  }
+  .blog{
+    margin-top: 15px;
+    border: 1px solid #aaa;
+    padding: 0 20px;
+    min-height: 160px;
+    border-radius: 5px;
+  }
+  .blog_tag img{
+    width: 30px;
+  }
+
+  .blog_tag img{
+    width: 30px;
+  }
+  .blog_number{
+    position: relative;
+    width: 24px;
+  }
+  .blog_number img{
+    width: 100%;
+    position: absolute;
+    bottom: 5px;
+    left:3px;
+  }
+  .blog_number span{
+    position: absolute;
+    top: -16px;
+    left: 15px;
+    transform: translate(-50%, -50%);
+    line-height: 1;
+    color: white;
+  }
+  .blog_content{
+    margin: 10px 0;
+    color: #666;
+  }
+  .technical_bottom_img{
+    width: 100%;
+  }
+  .timeLine{
+    margin: 50px 0;
+    position: relative;
+  }
+  .timeLine_blog{
+    padding: 10px 30px;
+    width: 350px;
+    background: white;
+    border-radius: 5px;
+    margin: auto;
+    position: relative;
+  }
+  .time_line{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    height: 100%;
+    transform: translate(-50%, -50%);
+    border: 1px solid #aaa;
+  }
+  .timeLine_header{
+    font-size: 20px;
+    font-weight: bold;
+    color: #14093e;
+    text-align: center;
+  }
+  .timeLine_img{
+    position: relative;
+  }
+  .timeLine_img img{
+    display:block;
+    margin:auto;
+    width: 42px;
+  }
+  .timeLine_img span{
+    position: absolute;
+    top: 22px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    line-height: 1;
+    color: white;
+  }
+  .timeLine_blog_odd{
+    padding: 20px 30px;
+    margin-left: calc(50% - 325px);
+  }
+  .timeLine_blog_even{
+    padding: 20px 30px;
+    margin-left: calc(50% - 40px);
+  }
+  .timeLine_blog p{
+    margin-bottom: 5px;
+  }
+  .timeLine .blogColor-1{
+    color: #7869e0;
+  }
+  .timeLine .blogColor-2{
+    color: #89ba19;
+  }
+  .timeLine .blogColor-3{
+    color: #f8a028;
+  }
+  .content_3{
+    padding: 80px 0;
+  }
+  .key_mechanics{
+    display: table;
+    font-size: 35px;
+    margin-bottom: 35px;
+    background-image: linear-gradient(to right, #8860d0, #5580e9 54%, #5ab8eb);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: bold;
+  }
+  .mechanics_content, .mechanics_content img{
+    position: relative;
+  }
+  .mechanics_line{
+    border: 1px solid #aaa;
+    position: absolute;
+    left: 9px;
+    height: 100%;
+    top: 5px;
+  }
+  .mechanics_text{
+    line-height: 1.7;
+    margin-top: -25px;
+    margin-left: 40px;
+  }
+  .mechanics_note{
+    line-height: 1.7;
+    padding: 30px;
+    border: 1px solid #aaa;
+    border-radius: 5px;
+    background: #eee;
+  }
+  .contract{
+    margin-left: 40px;
+    line-height: 1.7;
+  }
+  .contract p{
+    font-size: 35px;
+    color: #14093e;
+    margin-bottom:20px;
+    text-align: center;
+    font-weight: bold;
+  }
+
+  .contract_blog{
+    border:1px solid #aaa;
+    border-radius: 5px;
+    padding:20px 30px;
+    position: relative;
+  }
+  .ml_50{
+    margin-left: 50px;
+  }
+  .contract_blog_number{
+    text-align: center;
+    color:white;
+    width: 25px;
+    height: 25px;
+    float: left;
+    vertical-align: middle;
+    position: absolute;
+    top: 50%;
+    left: 35px;
+    transform: translate(-50%, -50%);
+  }
+  .contract_number_1{
+    background: url(~public/img/technical_img1.png);
+    background-size: 100%;
+  }
+  .contract_number_2{
+    background: url(~public/img/technical_img2.png);
+    background-size: 100%;
+  }
+  .contract_number_3{
+    background: url(~public/img/technical_img3.png);
+    background-size: 100%;
+  }
+  .contract_number_4{
+    background: url(~public/img/technical_img4.png);
+    background-size: 100%;
+  }
+  .contract_number_5{
+    background: url(~public/img/technical_img5.png);
+    background-size: 100%;
+  }
+  .contract_number_6{
+    background: url(~public/img/technical_img6.png);
+    background-size: 100%;
+  }
+  .contract_bottom_text{
+    line-height: 2;
+    margin-top: 30px;
+  }
+
+  /* fight paper css */
+  #paper_pdf{
+    max-width: 900px;
+    width: 70%;
+    margin: 50px auto;
+    border: 1px solid #aaa;
+    height: 900px;
+  }
+
+  @media (max-width: 767px){
+    #paper_pdf{
+      height: 300px !important;
+    }
+  }
+}

@@ -1,0 +1,44 @@
+/* pagination */
+.paginationjs {
+  li {
+    border-radius: 50% !important;
+  }
+
+  &-prev {
+    margin-right: 20px;
+    border: 1px solid #aaa !important;
+
+    a:hover {
+      background-color: white !important;
+      color: #aaa !important;
+    }
+  }
+
+  &-next {
+    margin-left: 20px;
+    border: 1px solid #aaa !important;
+
+    a:hover {
+      background-color: white !important;
+      color: #aaa !important;
+    }
+  }
+
+  &-ellipsis {
+    a {
+      color: black !important;
+      font-size: 22px !important;
+    }
+  }
+
+  &-page {
+    background: #e9ecef;
+    border-radius: 50%;
+    margin-right: 5px;
+
+    &:last-of-type {
+      margin-right: 0;
+    }
+  }
+}
+/* end pagination */

@@ -1,0 +1,226 @@
+/* font-size */
+
+.small {
+  font-size: 18px;
+}
+
+.x-small {
+  font-size: 20px;
+}
+
+.normal {
+  font-size: 24px;
+}
+
+.medium {
+  font-size: 35px;
+}
+
+.large {
+  font-size: 45px;
+}
+
+
+/* font family */
+
+.lato {
+  font-family: Lato;
+}
+
+
+/* font color */
+
+.colorRed {
+  color: #e3376a;
+}
+
+.colorWhite {
+  color: #fff;
+}
+
+.color_1 {
+  color: #007cc2;
+}
+
+.color_2 {
+  color: #0dc3ff;
+}
+
+.color_3 {
+  color: #60bbf7;
+}
+
+.color_4,
+.darkBlue {
+  color: #14093e;
+}
+
+.color_5 {
+  color: #7a84bd;
+}
+
+.color_6 {
+  color: #aaa;
+}
+
+.color_7 {
+  color: #03c3f4;
+}
+
+.color_8 {
+  color: #8860d0;
+}
+
+
+/* background color */
+
+.bg_1 {
+  background-color: #5757c4;
+}
+
+.bg_2 {
+  background-color: #00abf0;
+}
+
+.bg_3 {
+  background-color: #1443a3;
+}
+
+.bg_4 {
+  background-color: #b8bcd8;
+}
+
+.bg_5 {
+  background-color: #f0f4fc;
+}
+
+.bg_white {
+  background-color: white;
+}
+
+
+/* background image */
+
+.bi_1,
+.bi_4 {
+  background-image: linear-gradient(to right, #8860d0, #5580e9 54%, #5ab8eb);
+}
+
+.bi_2 {
+  background-image: linear-gradient(to right, #f07739, #e85256 54%, #e3366b);
+}
+
+.bi_3 {
+  background-image: linear-gradient(to right, #00d4bd, #1accfc);
+}
+
+.bi_5 {
+  background-image: linear-gradient(to top, #12214b, #3a316c);
+}
+
+
+/* border-radius & padding */
+
+.br_10 {
+  border-radius: 10px;
+}
+
+.br_t_10 {
+  border-radius: 10px 10px 0 0;
+}
+
+.br_30 {
+  border-radius: 30px;
+}
+
+.br_t_30 {
+  border-radius: 30px 30px 0 0;
+}
+
+.br_5 {
+  border-radius: 5px;
+}
+
+.p_10 {
+  padding: 10px;
+}
+
+/* other */
+
+.content {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.divide {
+  border-bottom: 1px solid #ddd;
+}
+
+.line_height_2 {
+  line-height: 2;
+}
+
+.available_card {
+  .card-head {
+    background-image: linear-gradient(283deg, #8c7ce9, #5580e9 54%, #5ab8eb);
+  }
+  .progress-bar {
+    background-image: linear-gradient(to right, #00d4bd, #1accfc);
+  }
+
+  .kittieBtn {
+    width: calc(100% - 40px);
+    float: left;
+    padding: 10px;
+    color: white;
+    font-family: Lato;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+    border-radius: 10px;
+    background-image: linear-gradient(to right, #00d4bd, #1accfc);
+
+    &:hover {
+      background-image: linear-gradient(to top, #12214b, #3a316c);
+    }
+  }
+}
+
+.not_available_card {
+  .card-head, .progress-bar {
+    background-image: linear-gradient(to right, #f07739, #e85256 54%, #e3366b);
+  }
+
+  .kittieBtn {
+    width: calc(100% - 40px);
+    float: left;
+    padding: 10px;
+    color: white;
+    font-family: Lato;
+    border: none;
+    font-weight: bold;
+    border-radius: 10px;
+    background-color: #949ac3;
+  }
+
+}
+
+.info {
+  text-align: right;
+  padding-top: 10px;
+}
+
+.info img {
+  width: 25px;
+}
+
+a {
+  &:hover {
+    text-decoration: none;
+  }
+}
+
+button {
+  border: none;
+}

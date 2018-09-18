@@ -1,0 +1,190 @@
+.content {
+    text-align: center;
+    padding: 100px 0px;
+    /* opacity: 21.6; */
+    background: url(../img/pattern-kat.png);
+}
+
+#kittieNum {
+    width: 100%;
+    font-weight: bold;
+    color: #ffffff;
+    padding: 10px;
+    border-radius: 30px 30px 0 0;
+    letter-spacing: normal;
+    font-size: 30px;
+    background-image: linear-gradient(to right, #8860d0, #5580e9 54%, #5ab8eb);
+}
+
+.user {
+    line-height: 3;
+    font-size: 20px;
+}
+
+.card {
+    border: none;
+    height: 100%;
+    min-width: 200px;
+    border-radius: 30px;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.75);
+}
+
+.card-head {
+    padding: 10px;
+}
+
+.card-body {
+    background-color: #f7f8ff;
+}
+
+.card-footer {
+    background-color: white;
+    border-radius: 0 0 30px 30px !important;
+    border: none;
+}
+
+.kittieBtn {
+    width: calc(100% - 40px);
+    float: left;
+    padding: 10px;
+    color: white;
+    font-family: Lato;
+    font-size: 18px;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+    border-radius: 10px;
+    background-image: linear-gradient(to right, #00d4bd, #1accfc);
+}
+
+.kittieBtn:hover {
+    background-image: linear-gradient(to top, #12214b, #3a316c);
+}
+
+.buy {
+    padding: 30px;
+    border-radius: 5px;
+    color: #14093e;
+    line-height: 1.7;
+    font-size: 18px;
+    height: 100%;
+    background-color: #f1f5fb;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.75);
+}
+
+.buy img {
+    margin-top: 26px;
+    width: 30px;
+}
+
+#buyBar_1,
+#buyBar_2 {
+    font-size: 22px;
+}
+
+.text {
+    line-height: 1.8;
+    padding: 15px 0;
+}
+
+.btn_1 {
+    border-radius: 10px;
+    border: solid 3px #adb5d2;
+    background-color: transparent;
+    padding: 6px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.btn_1:hover,
+.btn_2 span:hover {
+    color: #02c2f3
+}
+
+.btn_2 {
+    background: linear-gradient(to right, #8860d0, #5580e9 54%, #5ab8eb);
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    display: inline-block;
+    padding: 3px;
+    text-decoration: none;
+}
+
+.btn_2 span {
+    background: #f1f5fb;
+    display: block;
+    padding: 6px;
+    border-radius: 7px;
+}
+
+.buyBtn {
+    border: none;
+    color: white;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 24px;
+    font-family: Lato;
+    padding: 10px;
+    border-radius: 10px;
+    background-image: linear-gradient(to right, #8860d0, #5580e9 54%, #5ab8eb);
+}
+
+.buyBtn:hover {
+    background-image: linear-gradient(to top, #12214b, #3a316c);
+}
+
+@media (max-width: 991px) {
+    .offset-1 {
+        margin-left: 0;
+    }
+}
+
+@media (max-width: 767px) {
+    .buy {
+        margin-top: 50px;
+        height: auto !important;
+    }
+    .card-body img {
+        width: unset !important;
+    }
+    .card-footer {
+        padding: 0px 30px 30px 30px !important;
+    }
+    .content {
+        padding: 30px 0 !important;
+    }
+}
+
+@media (max-width: 1199px) {
+    .buy {
+        padding: 20px 30px !important;
+        font-size: 16px !important;
+    }
+    .buy img {
+        margin-top: 25px !important;
+    }
+    #buyBar_1,
+    #buyBar_2,
+    .buyBtn {
+        font-size: 20px !important;
+    }
+    #kittieNum {
+        font-size: 24px !important;
+    }
+    .card-footer {
+        padding: 15px 20px;
+    }
+    .user {
+        font-size: 20px !important;
+    }
+    .card-body img {
+        width: 100%;
+    }
+}
+
+@media(min-width: 1200px) {
+    .card-footer {
+        padding: 15px 45px 30px 45px;
+    }
+}
