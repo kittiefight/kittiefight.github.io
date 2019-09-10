@@ -1,0 +1,244 @@
+
+assets/background/new/skeleton.png
+size: 1759,1793
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arena
+  rotate: false
+  xy: 2, 990
+  size: 1280, 801
+  orig: 1280, 801
+  offset: 0, 0
+  index: -1
+arenabot
+  rotate: false
+  xy: 1395, 257
+  size: 268, 104
+  orig: 268, 104
+  offset: 0, 0
+  index: -1
+background
+  rotate: false
+  xy: 1163, 192
+  size: 230, 169
+  orig: 230, 169
+  offset: 0, 0
+  index: -1
+bridge-left
+  rotate: false
+  xy: 1015, 366
+  size: 204, 217
+  orig: 204, 217
+  offset: 0, 0
+  index: -1
+bridge-right
+  rotate: false
+  xy: 928, 177
+  size: 233, 187
+  orig: 233, 187
+  offset: 0, 0
+  index: -1
+c1
+  rotate: true
+  xy: 922, 409
+  size: 113, 85
+  orig: 113, 85
+  offset: 0, 0
+  index: -1
+c2
+  rotate: false
+  xy: 699, 32
+  size: 182, 99
+  orig: 182, 99
+  offset: 0, 0
+  index: -1
+c3
+  rotate: true
+  xy: 1665, 278
+  size: 83, 71
+  orig: 83, 71
+  offset: 0, 0
+  index: -1
+c4
+  rotate: true
+  xy: 1133, 48
+  size: 127, 97
+  orig: 127, 97
+  offset: 0, 0
+  index: -1
+egg-blue
+  rotate: false
+  xy: 1614, 97
+  size: 108, 158
+  orig: 108, 158
+  offset: 0, 0
+  index: -1
+egg-yellow
+  rotate: false
+  xy: 1232, 80
+  size: 79, 110
+  orig: 79, 110
+  offset: 0, 0
+  index: -1
+emotions/indifference0
+  rotate: false
+  xy: 1390, 15
+  size: 56, 44
+  orig: 56, 44
+  offset: 0, 0
+  index: -1
+emotions/indifference1
+  rotate: false
+  xy: 1448, 15
+  size: 56, 44
+  orig: 56, 44
+  offset: 0, 0
+  index: -1
+emotions/indifference2
+  rotate: true
+  xy: 1567, 50
+  size: 56, 44
+  orig: 56, 44
+  offset: 0, 0
+  index: -1
+emotions/joy-open0
+  rotate: true
+  xy: 1344, 21
+  size: 57, 44
+  orig: 57, 44
+  offset: 0, 0
+  index: -1
+emotions/joy-open1
+  rotate: false
+  xy: 1133, 2
+  size: 57, 44
+  orig: 57, 44
+  offset: 0, 0
+  index: -1
+emotions/joy-open2
+  rotate: false
+  xy: 1508, 62
+  size: 57, 44
+  orig: 57, 44
+  offset: 0, 0
+  index: -1
+emotions/melan-open0
+  rotate: false
+  xy: 1221, 943
+  size: 57, 45
+  orig: 57, 45
+  offset: 0, 0
+  index: -1
+emotions/melan-open1
+  rotate: false
+  xy: 1390, 61
+  size: 57, 45
+  orig: 57, 45
+  offset: 0, 0
+  index: -1
+emotions/melan-open2
+  rotate: false
+  xy: 1449, 61
+  size: 57, 45
+  orig: 57, 45
+  offset: 0, 0
+  index: -1
+isle-1
+  rotate: false
+  xy: 699, 133
+  size: 227, 237
+  orig: 227, 237
+  offset: 0, 0
+  index: -1
+isle-2
+  rotate: true
+  xy: 1284, 913
+  size: 216, 464
+  orig: 216, 464
+  offset: 0, 0
+  index: -1
+isle-3
+  rotate: false
+  xy: 1395, 108
+  size: 217, 147
+  orig: 217, 147
+  offset: 0, 0
+  index: -1
+isle-4
+  rotate: true
+  xy: 928, 33
+  size: 142, 203
+  orig: 142, 203
+  offset: 0, 0
+  index: -1
+left-isle
+  rotate: true
+  xy: 1221, 450
+  size: 461, 500
+  orig: 461, 500
+  offset: 0, 0
+  index: -1
+left-tree
+  rotate: true
+  xy: 2, 27
+  size: 343, 695
+  orig: 343, 695
+  offset: 0, 0
+  index: -1
+low-res/bot-clouds
+  rotate: false
+  xy: 2, 524
+  size: 1011, 176
+  orig: 1011, 176
+  offset: 0, 0
+  index: -1
+low-res/clouds-back
+  rotate: false
+  xy: 2, 372
+  size: 918, 150
+  orig: 918, 150
+  offset: 0, 0
+  index: -1
+low-res/far-rocks
+  rotate: false
+  xy: 2, 702
+  size: 1016, 286
+  orig: 1016, 286
+  offset: 0, 0
+  index: -1
+low-res/fog
+  rotate: false
+  xy: 1221, 363
+  size: 487, 85
+  orig: 487, 85
+  offset: 0, 0
+  index: -1
+plate-black4
+  rotate: true
+  xy: 1313, 80
+  size: 110, 61
+  orig: 110, 61
+  offset: 0, 0
+  index: -1
+plate-red4
+  rotate: false
+  xy: 1232, 17
+  size: 110, 61
+  orig: 110, 61
+  offset: 0, 0
+  index: -1
+right-isle
+  rotate: false
+  xy: 1284, 1131
+  size: 473, 660
+  orig: 473, 660
+  offset: 0, 0
+  index: -1
+right-tree
+  rotate: false
+  xy: 1020, 585
+  size: 199, 403
+  orig: 199, 403
+  offset: 0, 0
+  index: -1

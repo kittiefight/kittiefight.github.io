@@ -1,0 +1,83 @@
+
+assets/guard/exp/json/skeleton.png
+size: 781,740
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 485
+  size: 229, 253
+  orig: 229, 253
+  offset: 0, 0
+  index: -1
+eyes
+  rotate: true
+  xy: 716, 415
+  size: 90, 21
+  orig: 90, 21
+  offset: 0, 0
+  index: -1
+fire/Layer 1
+  rotate: false
+  xy: 233, 495
+  size: 236, 243
+  orig: 236, 243
+  offset: 0, 0
+  index: -1
+fire/Layer 2
+  rotate: false
+  xy: 471, 495
+  size: 236, 243
+  orig: 236, 243
+  offset: 0, 0
+  index: -1
+fire/Layer 3
+  rotate: false
+  xy: 2, 240
+  size: 236, 243
+  orig: 236, 243
+  offset: 0, 0
+  index: -1
+fire/Layer 4
+  rotate: true
+  xy: 2, 2
+  size: 236, 243
+  orig: 236, 243
+  offset: 0, 0
+  index: -1
+fire/Layer 5
+  rotate: false
+  xy: 240, 250
+  size: 236, 243
+  orig: 236, 243
+  offset: 0, 0
+  index: -1
+fire/Layer 6
+  rotate: false
+  xy: 478, 250
+  size: 236, 243
+  orig: 236, 243
+  offset: 0, 0
+  index: -1
+fire/Layer 7
+  rotate: false
+  xy: 247, 5
+  size: 236, 243
+  orig: 236, 243
+  offset: 0, 0
+  index: -1
+fire/Layer 8
+  rotate: false
+  xy: 485, 5
+  size: 236, 243
+  orig: 236, 243
+  offset: 0, 0
+  index: -1
+fork
+  rotate: false
+  xy: 709, 507
+  size: 70, 231
+  orig: 70, 231
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,1504 @@
+
+assets/kitties/kitties-export/cats-main-hd.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: xy
+black-panther-black/back-arm-back-1
+  rotate: true
+  xy: 1860, 63
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+black-panther-black/back-arm-back-2
+  rotate: true
+  xy: 1927, 547
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+black-panther-black/back-arm-front-1
+  rotate: false
+  xy: 575, 1629
+  size: 42, 45
+  orig: 42, 45
+  offset: 0, 0
+  index: -1
+black-panther-black/back-arm-front-2
+  rotate: false
+  xy: 1896, 94
+  size: 40, 32
+  orig: 40, 32
+  offset: 0, 0
+  index: -1
+black-panther-black/back-body
+  rotate: false
+  xy: 1247, 1632
+  size: 67, 63
+  orig: 67, 63
+  offset: 0, 0
+  index: -1
+black-panther-black/back-foot-back
+  rotate: false
+  xy: 1896, 53
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+black-panther-black/back-foot-front
+  rotate: false
+  xy: 1909, 436
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+black-panther-black/back-hand-back
+  rotate: true
+  xy: 1563, 2
+  size: 50, 41
+  orig: 50, 41
+  offset: 0, 0
+  index: -1
+black-panther-black/back-hand-front
+  rotate: false
+  xy: 1918, 787
+  size: 44, 57
+  orig: 44, 57
+  offset: 0, 0
+  index: -1
+black-panther-black/back-hand-front-fist
+  rotate: false
+  xy: 1755, 867
+  size: 86, 112
+  orig: 86, 112
+  offset: 0, 0
+  index: -1
+black-panther-black/back-head
+  rotate: false
+  xy: 1971, 1542
+  size: 75, 85
+  orig: 75, 85
+  offset: 0, 0
+  index: -1
+black-panther-black/back-leg-back-1
+  rotate: false
+  xy: 1945, 176
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+black-panther-black/back-leg-front-1
+  rotate: true
+  xy: 1914, 207
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+black-panther-black/back-waist
+  rotate: true
+  xy: 1316, 1630
+  size: 65, 32
+  orig: 65, 32
+  offset: 0, 0
+  index: -1
+black-panther-black/front-arm-back-1
+  rotate: false
+  xy: 1908, 395
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+black-panther-black/front-arm-back-2
+  rotate: false
+  xy: 1938, 105
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+black-panther-black/front-arm-front-1
+  rotate: false
+  xy: 1739, 1473
+  size: 40, 39
+  orig: 40, 39
+  offset: 0, 0
+  index: -1
+black-panther-black/front-arm-front-2
+  rotate: true
+  xy: 1908, 359
+  size: 34, 37
+  orig: 34, 37
+  offset: 0, 0
+  index: -1
+black-panther-black/front-belt-silver
+  rotate: true
+  xy: 1731, 2
+  size: 64, 25
+  orig: 64, 25
+  offset: 0, 0
+  index: -1
+black-panther-black/front-body
+  rotate: true
+  xy: 1122, 1629
+  size: 66, 65
+  orig: 66, 65
+  offset: 0, 0
+  index: -1
+black-panther-black/front-foot-back
+  rotate: false
+  xy: 783, 1314
+  size: 43, 40
+  orig: 43, 40
+  offset: 0, 0
+  index: -1
+black-panther-black/front-foot-front
+  rotate: false
+  xy: 1912, 505
+  size: 43, 40
+  orig: 43, 40
+  offset: 0, 0
+  index: -1
+black-panther-black/front-hand-back
+  rotate: false
+  xy: 1896, 128
+  size: 40, 49
+  orig: 40, 49
+  offset: 0, 0
+  index: -1
+black-panther-black/front-hand-back-fist
+  rotate: false
+  xy: 207, 2
+  size: 78, 96
+  orig: 78, 96
+  offset: 0, 0
+  index: -1
+black-panther-black/front-hand-front
+  rotate: true
+  xy: 1039, 309
+  size: 58, 40
+  orig: 58, 40
+  offset: 0, 0
+  index: -1
+black-panther-black/front-hand-front-fist
+  rotate: false
+  xy: 414, 5
+  size: 114, 78
+  orig: 114, 78
+  offset: 0, 0
+  index: -1
+black-panther-black/front-head
+  rotate: false
+  xy: 1952, 1249
+  size: 73, 87
+  orig: 73, 87
+  offset: 0, 0
+  index: -1
+black-panther-black/front-leg-back-1
+  rotate: true
+  xy: 1868, 32
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1
+black-panther-black/front-leg-back-2
+  rotate: false
+  xy: 2019, 468
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+black-panther-black/front-leg-front-1
+  rotate: true
+  xy: 1942, 243
+  size: 36, 34
+  orig: 36, 34
+  offset: 0, 0
+  index: -1
+black-panther-black/front-leg-front-2
+  rotate: true
+  xy: 586, 611
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+black-panther-red/front-leg-front-2
+  rotate: true
+  xy: 586, 611
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+black-panther-black/front-waist
+  rotate: false
+  xy: 1844, 453
+  size: 63, 36
+  orig: 63, 36
+  offset: 0, 0
+  index: -1
+black-panther-red/back-belt
+  rotate: true
+  xy: 1351, 744
+  size: 65, 25
+  orig: 65, 25
+  offset: 0, 0
+  index: -1
+black-panther-red/front-belt
+  rotate: true
+  xy: 1887, 207
+  size: 64, 25
+  orig: 64, 25
+  offset: 0, 0
+  index: -1
+black-panther-red/front-head-2
+  rotate: true
+  xy: 1383, 432
+  size: 144, 172
+  orig: 144, 172
+  offset: 0, 0
+  index: -1
+black-panther-red/front-head-3
+  rotate: true
+  xy: 1581, 651
+  size: 144, 172
+  orig: 144, 172
+  offset: 0, 0
+  index: -1
+cartoon1
+  rotate: false
+  xy: 1121, 664
+  size: 15, 5
+  orig: 15, 5
+  offset: 0, 0
+  index: -1
+cartoon10
+  rotate: false
+  xy: 1451, 23
+  size: 110, 55
+  orig: 110, 55
+  offset: 0, 0
+  index: -1
+cartoon11
+  rotate: false
+  xy: 927, 312
+  size: 110, 55
+  orig: 110, 55
+  offset: 0, 0
+  index: -1
+cartoon12
+  rotate: true
+  xy: 1693, 1514
+  size: 185, 92
+  orig: 185, 92
+  offset: 0, 0
+  index: -1
+cartoon13
+  rotate: false
+  xy: 287, 5
+  size: 125, 93
+  orig: 125, 93
+  offset: 0, 0
+  index: -1
+cartoon14
+  rotate: false
+  xy: 1755, 664
+  size: 93, 107
+  orig: 93, 107
+  offset: 0, 0
+  index: -1
+cartoon2
+  rotate: false
+  xy: 458, 1629
+  size: 60, 45
+  orig: 60, 45
+  offset: 0, 0
+  index: -1
+cartoon3
+  rotate: false
+  xy: 1451, 2
+  size: 40, 19
+  orig: 40, 19
+  offset: 0, 0
+  index: -1
+cartoon4
+  rotate: true
+  xy: 619, 1629
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+cartoon5
+  rotate: false
+  xy: 1737, 976
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+cartoon6
+  rotate: true
+  xy: 1887, 179
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+cartoon7
+  rotate: true
+  xy: 1916, 179
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+cartoon8
+  rotate: false
+  xy: 1351, 671
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+cartoon9
+  rotate: true
+  xy: 1606, 5
+  size: 47, 72
+  orig: 47, 72
+  offset: 0, 0
+  index: -1
+electricity0
+  rotate: false
+  xy: 1144, 426
+  size: 237, 243
+  orig: 237, 243
+  offset: 0, 0
+  index: -1
+electricity1
+  rotate: false
+  xy: 1121, 845
+  size: 258, 266
+  orig: 258, 266
+  offset: 0, 0
+  index: -1
+electricity10
+  rotate: false
+  xy: 2, 1302
+  size: 380, 371
+  orig: 380, 371
+  offset: 0, 0
+  index: -1
+electricity11
+  rotate: false
+  xy: 2, 1675
+  size: 383, 371
+  orig: 383, 371
+  offset: 0, 0
+  index: -1
+electricity12
+  rotate: false
+  xy: 387, 1676
+  size: 378, 370
+  orig: 378, 370
+  offset: 0, 0
+  index: -1
+electricity13
+  rotate: false
+  xy: 2, 939
+  size: 362, 361
+  orig: 362, 361
+  offset: 0, 0
+  index: -1
+electricity14
+  rotate: false
+  xy: 1463, 1701
+  size: 337, 345
+  orig: 337, 345
+  offset: 0, 0
+  index: -1
+electricity15
+  rotate: false
+  xy: 586, 633
+  size: 321, 329
+  orig: 321, 329
+  offset: 0, 0
+  index: -1
+electricity16
+  rotate: false
+  xy: 384, 1302
+  size: 316, 325
+  orig: 316, 325
+  offset: 0, 0
+  index: -1
+electricity17
+  rotate: false
+  xy: 823, 1391
+  size: 291, 297
+  orig: 291, 297
+  offset: 0, 0
+  index: -1
+electricity18
+  rotate: false
+  xy: 1787, 1445
+  size: 182, 182
+  orig: 182, 182
+  offset: 0, 0
+  index: -1
+electricity19
+  rotate: false
+  xy: 1109, 1113
+  size: 267, 276
+  orig: 267, 276
+  offset: 0, 0
+  index: -1
+electricity2
+  rotate: false
+  xy: 890, 27
+  size: 271, 280
+  orig: 271, 280
+  offset: 0, 0
+  index: -1
+electricity20
+  rotate: false
+  xy: 1386, 80
+  size: 175, 168
+  orig: 175, 168
+  offset: 0, 0
+  index: -1
+electricity21
+  rotate: false
+  xy: 1116, 1391
+  size: 233, 236
+  orig: 233, 236
+  offset: 0, 0
+  index: -1
+electricity22
+  rotate: false
+  xy: 1472, 1473
+  size: 219, 226
+  orig: 219, 226
+  offset: 0, 0
+  index: -1
+electricity23
+  rotate: true
+  xy: 1378, 1200
+  size: 232, 210
+  orig: 232, 210
+  offset: 0, 0
+  index: -1
+electricity24
+  rotate: true
+  xy: 1724, 271
+  size: 85, 90
+  orig: 85, 90
+  offset: 0, 0
+  index: -1
+electricity25
+  rotate: false
+  xy: 1581, 797
+  size: 172, 177
+  orig: 172, 177
+  offset: 0, 0
+  index: -1
+electricity26
+  rotate: false
+  xy: 1566, 318
+  size: 156, 162
+  orig: 156, 162
+  offset: 0, 0
+  index: -1
+electricity27
+  rotate: true
+  xy: 1566, 176
+  size: 140, 144
+  orig: 140, 144
+  offset: 0, 0
+  index: -1
+electricity28
+  rotate: false
+  xy: 1847, 969
+  size: 119, 124
+  orig: 119, 124
+  offset: 0, 0
+  index: -1
+electricity29
+  rotate: false
+  xy: 1737, 981
+  size: 108, 112
+  orig: 108, 112
+  offset: 0, 0
+  index: -1
+electricity3
+  rotate: false
+  xy: 1770, 1095
+  size: 177, 168
+  orig: 177, 168
+  offset: 0, 0
+  index: -1
+electricity30
+  rotate: false
+  xy: 1724, 358
+  size: 90, 91
+  orig: 90, 91
+  offset: 0, 0
+  index: -1
+electricity31
+  rotate: false
+  xy: 1971, 1461
+  size: 75, 79
+  orig: 75, 79
+  offset: 0, 0
+  index: -1
+electricity33
+  rotate: true
+  xy: 1005, 2
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+electricity35
+  rotate: false
+  xy: 1566, 742
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+electricity4
+  rotate: false
+  xy: 828, 1105
+  size: 279, 284
+  orig: 279, 284
+  offset: 0, 0
+  index: -1
+electricity5
+  rotate: false
+  xy: 612, 309
+  size: 313, 322
+  orig: 313, 322
+  offset: 0, 0
+  index: -1
+electricity6
+  rotate: false
+  xy: 500, 964
+  size: 326, 336
+  orig: 326, 336
+  offset: 0, 0
+  index: -1
+electricity7
+  rotate: false
+  xy: 1122, 1697
+  size: 339, 349
+  orig: 339, 349
+  offset: 0, 0
+  index: -1
+electricity8
+  rotate: false
+  xy: 767, 1690
+  size: 353, 356
+  orig: 353, 356
+  offset: 0, 0
+  index: -1
+electricity9
+  rotate: true
+  xy: 1381, 969
+  size: 229, 197
+  orig: 229, 197
+  offset: 0, 0
+  index: -1
+fx-beaten-1
+  rotate: true
+  xy: 1755, 773
+  size: 92, 86
+  orig: 92, 86
+  offset: 0, 0
+  index: -1
+fx-beaten-2
+  rotate: false
+  xy: 530, 11
+  size: 79, 72
+  orig: 79, 72
+  offset: 0, 0
+  index: -1
+fx-beaten-3
+  rotate: false
+  xy: 1189, 1629
+  size: 56, 66
+  orig: 56, 66
+  offset: 0, 0
+  index: -1
+fx-beaten-4
+  rotate: false
+  xy: 1962, 723
+  size: 65, 53
+  orig: 65, 53
+  offset: 0, 0
+  index: -1
+fx-kick-01
+  rotate: true
+  xy: 1802, 1629
+  size: 417, 226
+  orig: 417, 226
+  offset: 0, 0
+  index: -1
+fx-kick-02
+  rotate: true
+  xy: 260, 100
+  size: 400, 175
+  orig: 400, 175
+  offset: 0, 0
+  index: -1
+fx-kick-03
+  rotate: true
+  xy: 366, 945
+  size: 355, 132
+  orig: 355, 132
+  offset: 0, 0
+  index: -1
+fx-kick-04
+  rotate: false
+  xy: 828, 973
+  size: 271, 130
+  orig: 271, 130
+  offset: 0, 0
+  index: -1
+fx-kick-05
+  rotate: false
+  xy: 1580, 976
+  size: 155, 131
+  orig: 155, 131
+  offset: 0, 0
+  index: -1
+fx-lightning-01
+  rotate: false
+  xy: 1121, 671
+  size: 228, 172
+  orig: 228, 172
+  offset: 0, 0
+  index: -1
+fx-lightning-02
+  rotate: true
+  xy: 909, 664
+  size: 307, 210
+  orig: 307, 210
+  offset: 0, 0
+  index: -1
+fx-lightning-03
+  rotate: true
+  xy: 2, 124
+  size: 394, 256
+  orig: 394, 256
+  offset: 0, 0
+  index: -1
+fx-lightning-04
+  rotate: true
+  xy: 2, 520
+  size: 417, 290
+  orig: 417, 290
+  offset: 0, 0
+  index: -1
+fx-lightning-05
+  rotate: false
+  xy: 927, 369
+  size: 215, 293
+  orig: 215, 293
+  offset: 0, 0
+  index: -1
+fx-lightning-06
+  rotate: false
+  xy: 453, 611
+  size: 131, 332
+  orig: 131, 332
+  offset: 0, 0
+  index: -1
+fx-lightning-07
+  rotate: false
+  xy: 437, 85
+  size: 173, 415
+  orig: 173, 415
+  offset: 0, 0
+  index: -1
+fx-punch-01
+  rotate: true
+  xy: 294, 502
+  size: 435, 157
+  orig: 435, 157
+  offset: 0, 0
+  index: -1
+fx-punch-02
+  rotate: true
+  xy: 702, 1356
+  size: 318, 119
+  orig: 318, 119
+  offset: 0, 0
+  index: -1
+fx-punch-03
+  rotate: true
+  xy: 1351, 1434
+  size: 261, 119
+  orig: 261, 119
+  offset: 0, 0
+  index: -1
+fx-punch-04
+  rotate: false
+  xy: 2, 2
+  size: 203, 120
+  orig: 203, 120
+  offset: 0, 0
+  index: -1
+fx-punch-05
+  rotate: false
+  xy: 1843, 846
+  size: 126, 121
+  orig: 126, 121
+  offset: 0, 0
+  index: -1
+fx-slash-01
+  rotate: true
+  xy: 612, 2
+  size: 305, 276
+  orig: 305, 276
+  offset: 0, 0
+  index: -1
+fx-slash-02
+  rotate: true
+  xy: 1163, 193
+  size: 231, 221
+  orig: 231, 221
+  offset: 0, 0
+  index: -1
+fx-slash-03
+  rotate: false
+  xy: 1566, 482
+  size: 171, 167
+  orig: 171, 167
+  offset: 0, 0
+  index: -1
+fx-slash-04
+  rotate: true
+  xy: 1563, 54
+  size: 120, 128
+  orig: 120, 128
+  offset: 0, 0
+  index: -1
+fx-slash-05
+  rotate: false
+  xy: 1805, 179
+  size: 80, 90
+  orig: 80, 90
+  offset: 0, 0
+  index: -1
+kimono-black/back-arm-back-1
+  rotate: false
+  xy: 1927, 318
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+kimono-black/back-arm-back-2
+  rotate: true
+  xy: 1351, 811
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+kimono-black/back-arm-back-3
+  rotate: false
+  xy: 1868, 3
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+kimono-black/back-arm-front-1
+  rotate: true
+  xy: 1942, 207
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+kimono-black/back-arm-front-2
+  rotate: false
+  xy: 1981, 442
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+kimono-black/back-arm-front-3
+  rotate: false
+  xy: 2019, 492
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1
+kimono-black/back-belt-black
+  rotate: false
+  xy: 619, 1640
+  size: 77, 34
+  orig: 77, 34
+  offset: 0, 0
+  index: -1
+kimono-black/back-belt-blue
+  rotate: true
+  xy: 556, 532
+  size: 77, 34
+  orig: 77, 34
+  offset: 0, 0
+  index: -1
+kimono-black/back-belt-brown
+  rotate: true
+  xy: 1860, 100
+  size: 77, 34
+  orig: 77, 34
+  offset: 0, 0
+  index: -1
+kimono-black/back-belt-green
+  rotate: true
+  xy: 1926, 708
+  size: 77, 34
+  orig: 77, 34
+  offset: 0, 0
+  index: -1
+kimono-black/back-belt-orange
+  rotate: false
+  xy: 1768, 50
+  size: 77, 34
+  orig: 77, 34
+  offset: 0, 0
+  index: -1
+kimono-black/back-belt-red
+  rotate: true
+  xy: 1891, 280
+  size: 77, 34
+  orig: 77, 34
+  offset: 0, 0
+  index: -1
+kimono-black/back-belt-violet
+  rotate: false
+  xy: 1758, 14
+  size: 77, 34
+  orig: 77, 34
+  offset: 0, 0
+  index: -1
+kimono-black/back-belt-white
+  rotate: false
+  xy: 1962, 687
+  size: 77, 34
+  orig: 77, 34
+  offset: 0, 0
+  index: -1
+kimono-black/back-belt-yellow
+  rotate: true
+  xy: 1926, 629
+  size: 77, 34
+  orig: 77, 34
+  offset: 0, 0
+  index: -1
+kimono-black/back-body
+  rotate: false
+  xy: 453, 502
+  size: 101, 107
+  orig: 101, 107
+  offset: 0, 0
+  index: -1
+kimono-black/back-ear-back
+  rotate: false
+  xy: 1938, 74
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+kimono-black/back-ear-front
+  rotate: true
+  xy: 2012, 442
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+kimono-black/back-foot-back
+  rotate: true
+  xy: 1914, 239
+  size: 39, 26
+  orig: 39, 26
+  offset: 0, 0
+  index: -1
+kimono-black/back-foot-front
+  rotate: false
+  xy: 931, 2
+  size: 35, 23
+  orig: 35, 23
+  offset: 0, 0
+  index: -1
+kimono-black/back-hand-back
+  rotate: false
+  xy: 520, 1629
+  size: 53, 45
+  orig: 53, 45
+  offset: 0, 0
+  index: -1
+kimono-black/back-hand-front
+  rotate: true
+  xy: 1693, 1473
+  size: 39, 44
+  orig: 39, 44
+  offset: 0, 0
+  index: -1
+kimono-black/back-hand-front-fist
+  rotate: true
+  xy: 1843, 776
+  size: 68, 73
+  orig: 68, 73
+  offset: 0, 0
+  index: -1
+kimono-black/back-head
+  rotate: false
+  xy: 1739, 451
+  size: 103, 91
+  orig: 103, 91
+  offset: 0, 0
+  index: -1
+kimono-black/back-leg-back-1
+  rotate: false
+  xy: 890, 2
+  size: 39, 23
+  orig: 39, 23
+  offset: 0, 0
+  index: -1
+kimono-black/back-leg-back-2
+  rotate: true
+  xy: 1957, 477
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+kimono-black/back-leg-back-3
+  rotate: false
+  xy: 1493, 2
+  size: 32, 19
+  orig: 32, 19
+  offset: 0, 0
+  index: -1
+kimono-black/back-leg-front-1
+  rotate: true
+  xy: 1101, 1068
+  size: 35, 18
+  orig: 35, 18
+  offset: 0, 0
+  index: -1
+kimono-black/back-leg-front-2
+  rotate: true
+  xy: 1101, 1009
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+kimono-black/back-leg-front-3
+  rotate: true
+  xy: 1101, 1037
+  size: 29, 18
+  orig: 29, 18
+  offset: 0, 0
+  index: -1
+kimono-black/front-arm-back-1
+  rotate: true
+  xy: 556, 502
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+kimono-black/front-arm-back-2
+  rotate: true
+  xy: 2019, 523
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+kimono-black/front-arm-back-3
+  rotate: false
+  xy: 589, 505
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+kimono-black/front-arm-front-1
+  rotate: false
+  xy: 1927, 281
+  size: 39, 35
+  orig: 39, 35
+  offset: 0, 0
+  index: -1
+kimono-black/front-arm-front-2
+  rotate: false
+  xy: 1938, 139
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1
+kimono-black/front-belt-black
+  rotate: false
+  xy: 1850, 632
+  size: 74, 34
+  orig: 74, 34
+  offset: 0, 0
+  index: -1
+kimono-black/front-belt-blue
+  rotate: false
+  xy: 1840, 598
+  size: 71, 32
+  orig: 71, 32
+  offset: 0, 0
+  index: -1
+kimono-black/front-belt-brown
+  rotate: false
+  xy: 1840, 564
+  size: 71, 32
+  orig: 71, 32
+  offset: 0, 0
+  index: -1
+kimono-black/front-belt-detail-1-black
+  rotate: false
+  xy: 1351, 706
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+kimono-black/front-belt-detail-1-blue
+  rotate: false
+  xy: 1837, 14
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+kimono-black/front-belt-detail-1-brown
+  rotate: false
+  xy: 1976, 140
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+kimono-black/front-belt-detail-1-green
+  rotate: false
+  xy: 1957, 511
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+kimono-black/front-belt-detail-1-orange
+  rotate: false
+  xy: 1988, 514
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+kimono-black/front-belt-detail-1-red
+  rotate: true
+  xy: 1934, 11
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+kimono-black/front-belt-detail-1-violet
+  rotate: false
+  xy: 1950, 441
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+kimono-black/front-belt-detail-1-white
+  rotate: true
+  xy: 1937, 42
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+kimono-black/front-belt-detail-1-yellow
+  rotate: false
+  xy: 1988, 478
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+kimono-black/front-belt-detail-2-black
+  rotate: true
+  xy: 500, 945
+  size: 17, 39
+  orig: 17, 39
+  offset: 0, 0
+  index: -1
+kimono-black/front-belt-detail-2-blue
+  rotate: false
+  xy: 1144, 387
+  size: 17, 37
+  orig: 17, 37
+  offset: 0, 0
+  index: -1
+kimono-black/front-belt-detail-2-brown
+  rotate: true
+  xy: 541, 945
+  size: 17, 37
+  orig: 17, 37
+  offset: 0, 0
+  index: -1
+kimono-black/front-belt-detail-2-green
+  rotate: false
+  xy: 2029, 739
+  size: 17, 37
+  orig: 17, 37
+  offset: 0, 0
+  index: -1
+kimono-black/front-belt-detail-2-orange
+  rotate: true
+  xy: 1057, 8
+  size: 17, 37
+  orig: 17, 37
+  offset: 0, 0
+  index: -1
+kimono-black/front-belt-detail-2-red
+  rotate: true
+  xy: 1096, 8
+  size: 17, 37
+  orig: 17, 37
+  offset: 0, 0
+  index: -1
+kimono-black/front-belt-detail-2-violet
+  rotate: false
+  xy: 592, 572
+  size: 17, 37
+  orig: 17, 37
+  offset: 0, 0
+  index: -1
+kimono-black/front-belt-detail-2-white
+  rotate: false
+  xy: 592, 533
+  size: 17, 37
+  orig: 17, 37
+  offset: 0, 0
+  index: -1
+kimono-black/front-belt-detail-2-yellow
+  rotate: true
+  xy: 1895, 34
+  size: 17, 37
+  orig: 17, 37
+  offset: 0, 0
+  index: -1
+kimono-black/front-belt-green
+  rotate: false
+  xy: 1962, 618
+  size: 71, 32
+  orig: 71, 32
+  offset: 0, 0
+  index: -1
+kimono-black/front-belt-orange
+  rotate: false
+  xy: 1962, 584
+  size: 71, 32
+  orig: 71, 32
+  offset: 0, 0
+  index: -1
+kimono-black/front-belt-red
+  rotate: true
+  xy: 1844, 491
+  size: 71, 32
+  orig: 71, 32
+  offset: 0, 0
+  index: -1
+kimono-black/front-belt-violet
+  rotate: true
+  xy: 1878, 491
+  size: 71, 32
+  orig: 71, 32
+  offset: 0, 0
+  index: -1
+kimono-black/front-belt-white
+  rotate: false
+  xy: 1962, 652
+  size: 71, 33
+  orig: 71, 33
+  offset: 0, 0
+  index: -1
+kimono-black/front-belt-yellow
+  rotate: false
+  xy: 1962, 550
+  size: 71, 32
+  orig: 71, 32
+  offset: 0, 0
+  index: -1
+kimono-black/front-body
+  rotate: false
+  xy: 1739, 544
+  size: 99, 105
+  orig: 99, 105
+  offset: 0, 0
+  index: -1
+kimono-black/front-ear-back
+  rotate: true
+  xy: 1787, 1680
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+kimono-black/front-ear-front
+  rotate: true
+  xy: 1031, 2
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+kimono-black/front-foot-back
+  rotate: false
+  xy: 968, 2
+  size: 35, 23
+  orig: 35, 23
+  offset: 0, 0
+  index: -1
+kimono-black/front-foot-front
+  rotate: false
+  xy: 1912, 477
+  size: 40, 26
+  orig: 40, 26
+  offset: 0, 0
+  index: -1
+kimono-black/front-hand-back
+  rotate: true
+  xy: 1527, 1434
+  size: 37, 43
+  orig: 37, 43
+  offset: 0, 0
+  index: -1
+kimono-black/front-hand-back-fist
+  rotate: false
+  xy: 1971, 832
+  size: 73, 85
+  orig: 73, 85
+  offset: 0, 0
+  index: -1
+kimono-black/front-hand-front
+  rotate: false
+  xy: 1472, 1434
+  size: 53, 37
+  orig: 53, 37
+  offset: 0, 0
+  index: -1
+kimono-black/front-hand-front-fist
+  rotate: true
+  xy: 1952, 1338
+  size: 105, 73
+  orig: 105, 73
+  offset: 0, 0
+  index: -1
+kimono-black/front-head
+  rotate: false
+  xy: 1712, 179
+  size: 91, 90
+  orig: 91, 90
+  offset: 0, 0
+  index: -1
+kimono-black/front-head-blink
+  rotate: false
+  xy: 1816, 359
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+kimono-black/front-head-cry
+  rotate: true
+  xy: 1768, 86
+  size: 91, 90
+  orig: 91, 90
+  offset: 0, 0
+  index: -1
+kimono-black/front-head-damaged
+  rotate: true
+  xy: 1386, 250
+  size: 180, 178
+  orig: 180, 178
+  offset: 0, 0
+  index: -1
+kimono-black/front-leg-back-1
+  rotate: false
+  xy: 1135, 4
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+kimono-black/front-leg-back-2
+  rotate: true
+  xy: 1101, 985
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+kimono-black/front-leg-front-2
+  rotate: false
+  xy: 1895, 2
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+kimono-black/front-leg-front-3
+  rotate: false
+  xy: 260, 502
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+kimono-black/front-waist
+  rotate: false
+  xy: 207, 100
+  size: 40, 22
+  orig: 40, 22
+  offset: 0, 0
+  index: -1
+kimono-black/front-whiskers-back
+  rotate: true
+  xy: 1770, 1445
+  size: 26, 15
+  orig: 26, 15
+  offset: 0, 0
+  index: -1
+kimono-black/front-whiskers-front
+  rotate: true
+  xy: 2020, 1095
+  size: 46, 26
+  orig: 46, 26
+  offset: 0, 0
+  index: -1
+kimono-red/back-ear-back
+  rotate: false
+  xy: 1081, 310
+  size: 69, 57
+  orig: 69, 57
+  offset: 0, 0
+  index: -1
+kimono-red/back-ear-front
+  rotate: false
+  xy: 1913, 578
+  size: 47, 49
+  orig: 47, 49
+  offset: 0, 0
+  index: -1
+kimono-red/back-foot-back
+  rotate: false
+  xy: 1964, 778
+  size: 76, 52
+  orig: 76, 52
+  offset: 0, 0
+  index: -1
+kimono-red/back-foot-front
+  rotate: false
+  xy: 1949, 1095
+  size: 69, 46
+  orig: 69, 46
+  offset: 0, 0
+  index: -1
+kimono-red/back-hand-back
+  rotate: true
+  xy: 1949, 1143
+  size: 104, 88
+  orig: 104, 88
+  offset: 0, 0
+  index: -1
+kimono-red/back-hand-front
+  rotate: false
+  xy: 1968, 1007
+  size: 77, 86
+  orig: 77, 86
+  offset: 0, 0
+  index: -1
+kimono-red/back-hand-front-fist
+  rotate: true
+  xy: 1369, 2
+  size: 76, 80
+  orig: 76, 80
+  offset: 0, 0
+  index: -1
+kimono-red/back-head
+  rotate: false
+  xy: 1163, 11
+  size: 204, 180
+  orig: 204, 180
+  offset: 0, 0
+  index: -1
+kimono-red/front-body
+  rotate: false
+  xy: 1381, 758
+  size: 198, 209
+  orig: 198, 209
+  offset: 0, 0
+  index: -1
+kimono-red/front-ear-back
+  rotate: true
+  xy: 1351, 1394
+  size: 38, 25
+  orig: 38, 25
+  offset: 0, 0
+  index: -1
+kimono-red/front-ear-front
+  rotate: true
+  xy: 1680, 2
+  size: 46, 49
+  orig: 46, 49
+  offset: 0, 0
+  index: -1
+kimono-red/front-foot-back
+  rotate: false
+  xy: 387, 1629
+  size: 69, 45
+  orig: 69, 45
+  offset: 0, 0
+  index: -1
+kimono-red/front-foot-front
+  rotate: false
+  xy: 702, 1302
+  size: 79, 52
+  orig: 79, 52
+  offset: 0, 0
+  index: -1
+kimono-red/front-hand-back
+  rotate: false
+  xy: 1971, 919
+  size: 74, 86
+  orig: 74, 86
+  offset: 0, 0
+  index: -1
+kimono-red/front-hand-back-fist
+  rotate: false
+  xy: 1816, 273
+  size: 73, 84
+  orig: 73, 84
+  offset: 0, 0
+  index: -1
+kimono-red/front-hand-front
+  rotate: true
+  xy: 1850, 668
+  size: 106, 74
+  orig: 106, 74
+  offset: 0, 0
+  index: -1
+kimono-red/front-hand-front-fist
+  rotate: true
+  xy: 1693, 68
+  size: 106, 73
+  orig: 106, 73
+  offset: 0, 0
+  index: -1
+kimono-red/front-head
+  rotate: true
+  xy: 1590, 1291
+  size: 180, 178
+  orig: 180, 178
+  offset: 0, 0
+  index: -1
+kimono-red/front-head-blink
+  rotate: false
+  xy: 1383, 578
+  size: 181, 178
+  orig: 181, 178
+  offset: 0, 0
+  index: -1
+kimono-red/front-head-cry
+  rotate: false
+  xy: 1770, 1265
+  size: 180, 178
+  orig: 180, 178
+  offset: 0, 0
+  index: -1
+kimono-red/front-head-damaged
+  rotate: true
+  xy: 1590, 1109
+  size: 180, 178
+  orig: 180, 178
+  offset: 0, 0
+  index: -1

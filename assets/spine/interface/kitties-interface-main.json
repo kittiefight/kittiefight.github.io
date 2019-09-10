@@ -1,0 +1,112 @@
+{
+  "skeleton": { "images": "images/" },
+  "bones": [{ "name": "root" }],
+  "slots": [
+    { "name": "Red corner", "bone": "root", "attachment": "Red corner" },
+    { "name": "Black corner", "bone": "root", "attachment": "Black corner" },
+    { "name": "Scale", "bone": "root", "attachment": "Scale" },
+    { "name": "shading DNA", "bone": "root", "attachment": "shading DNA" },
+    { "name": "clock rim", "bone": "root", "attachment": "clock rim" },
+    {
+      "name": "Blue background clock",
+      "bone": "root",
+      "attachment": "Blue background clock"
+    },
+    {
+      "name": "glare on the clock",
+      "bone": "root",
+      "attachment": "glare on the clock"
+    },
+    { "name": "frame icons 2", "bone": "root", "attachment": "frame icons 2" },
+    {
+      "name": "background icons 2",
+      "bone": "root",
+      "attachment": "background icons 2"
+    },
+    { "name": "player 2", "bone": "root", "attachment": "player 2" },
+    { "name": "glare 01", "bone": "root", "attachment": "glare 01" },
+    { "name": "frame icons 1", "bone": "root", "attachment": "frame icons 1" },
+    {
+      "name": "background icons 1",
+      "bone": "root",
+      "attachment": "background icons 1"
+    },
+    { "name": "player 1", "bone": "root", "attachment": "player 1" },
+    { "name": "glare 0", "bone": "root", "attachment": "glare 0" }
+  ],
+  "skins": {
+    "default": {
+      "Red corner": {
+        "Red corner": { "x": 5662, "y": -644, "width": 678, "height": 856 }
+      },
+      "Black corner": {
+        "Black corner": { "x": 354.5, "y": -636, "width": 711, "height": 856 }
+      },
+      "Scale": {
+        "Scale": { "x": 3023, "y": -787, "width": 5684, "height": 336 }
+      },
+      "shading DNA": {
+        "shading DNA": { "x": 3002.5, "y": -787, "width": 2355, "height": 336 }
+      },
+      "clock rim": {
+        "clock rim": { "x": 3000, "y": -789.5, "width": 898, "height": 453 }
+      },
+      "Blue background clock": {
+        "Blue background clock": {
+          "x": 2997.5,
+          "y": -787,
+          "width": 793,
+          "height": 336
+        }
+      },
+      "glare on the clock": {
+        "glare on the clock": {
+          "x": 3003,
+          "y": -709,
+          "width": 740,
+          "height": 142
+        }
+      },
+      "frame icons 2": {
+        "frame icons 2": { "x": 438, "y": -816, "width": 690, "height": 690 }
+      },
+      "background icons 2": {
+        "background icons 2": {
+          "x": 438.499999999999,
+          "y": -816.5,
+          "width": 569,
+          "height": 569
+        }
+      },
+      "player 2": {
+        "player 2": {
+          "x": 431.500000000001,
+          "y": -842,
+          "width": 531,
+          "height": 518
+        }
+      },
+      "glare 01": {
+        "glare 01": { "x": 650, "y": -628, "width": 200, "height": 220 }
+      },
+      "frame icons 1": {
+        "frame icons 1": { "x": 5562, "y": -816, "width": 690, "height": 690 }
+      },
+      "background icons 1": {
+        "background icons 1": {
+          "x": 5562.5,
+          "y": -816.5,
+          "width": 569,
+          "height": 569
+        }
+      },
+      "player 1": {
+        "player 1": { "x": 5564, "y": -823.5, "width": 546, "height": 555 }
+      },
+      "glare 0": {
+        "glare 0": { "x": 5604.5, "y": -648, "width": 539, "height": 278 }
+      }
+    }
+  },
+  "animations": { "animation": {} }
+}

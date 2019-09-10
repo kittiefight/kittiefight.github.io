@@ -1,0 +1,391 @@
+/* about css */
+.content_tab{
+    background: url(../img/pattern-kat.png);
+    height: 160px;
+    background-size: 100%;
+    position: relative;
+}
+.content_tab .tab{
+    width: fit-content;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.content_tab ul{
+    list-style-type: none;
+    display: flex;
+    padding: unset;
+}
+
+.content_tab li{
+    padding: 5px 20px;
+    border: 1px solid #ddd;
+    background: white;
+    border-radius: 5px;
+}
+
+.content_tab li img{
+    width: 35px;
+}
+
+.content_tab li span{
+    margin-left: 10px;
+    font-weight: bold;
+    color: #14093e;
+}
+@media (min-width: 1200px) and (min-width: 992px){
+    .content .container {
+        max-width: 900px;
+    }
+}
+
+@media (max-width: 767px){
+    .content_1{
+        padding: 50px 20px !important;
+    }
+    .content_tab .tab span{
+        display: none;
+    }
+}
+.content_1{
+    padding: 50px;
+}
+
+.content_1 img{
+    width: 150px;
+}
+.arrow_down{
+    position: absolute;
+    bottom: -15px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 20px;
+    width: 45px;
+    background: white;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px
+}
+.arrow_down i{
+    font-size: 30px;
+    color: #B1BAF1;
+    margin-left: 13px;
+}
+.about_img{
+    text-align: center;
+}
+
+.content_1 p{
+    line-height: 2;
+    text-align: center;
+}
+
+.team{
+    margin: 50px auto;
+}
+
+.team_head{
+    display: table;
+    margin: auto;
+    font-size: 35px;
+    margin-bottom: 15px;
+    background-image: linear-gradient(to right, #8860d0, #5580e9 54%, #5ab8eb);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: bold;
+}
+
+.team_bottom p{
+    text-align: left
+}
+
+.team_bottom .team_head{
+    margin: unset;  
+    font-size: 30px;
+    line-height: 1.2;
+}
+.team_bottom_text{
+    line-height: 2;
+}
+.team_bottom_text p{
+    font-size: 20px;
+    margin-bottom: unset;
+    font-weight: bold;
+    color: #14093e
+}
+.team_member{
+    padding: 15px;
+    border:1px solid #aaa;
+    border-radius: 5px;
+    text-align: center;
+}
+.team_member img{
+    margin:auto;
+    margin-bottom: 15px;
+    width: 100px;
+}
+.member_name{
+    color: #546591;
+    font-weight: bold;
+    font-size: 20px;
+}
+.member_desc{
+    color: #666;
+}
+.slick-prev{
+    position: absolute;
+    top: 50%;
+    left: -25px;
+    transform: translate(0, -50%);
+}
+.slick-next{
+    position: absolute;
+    top: 50%;
+    right: -25px;
+    transform: translate(0, -50%);
+}
+.slick-arrow{
+    background: white;
+    cursor: pointer;
+}
+.slick-arrow img{
+    width: 15px;
+}
+
+.slick-arrow:focus{
+    outline: unset;
+}
+/* technical css */
+@media (max-width: 767px){
+    .timeLine_blog {
+        margin-left: unset !important;
+        margin-right: unset !important;
+        width: 100% !important;
+    }
+    .technical_bottom_img{
+        margin-top: -10px;
+    }
+}
+.technical_top_header{
+    line-height: 1;
+    padding-top: 25px;
+}
+.content_2{
+    background: url(../img/pattern-kat.png);
+    background-size: 100%;
+}
+.blog{
+    margin-top: 15px;
+    border: 1px solid #aaa;
+    padding: 0 20px;
+    min-height: 160px;
+    border-radius: 5px;
+}
+.blog_tag img{
+    width: 30px;
+}
+
+.blog_tag img{
+    width: 30px;
+}
+.blog_number{
+    position: relative;
+    width: 24px;
+}
+.blog_number img{
+    width: 100%;
+    position: absolute;
+    bottom: 5px;
+    left:3px;
+}
+.blog_number span{
+    position: absolute;
+    top: -16px;
+    left: 15px;
+    transform: translate(-50%, -50%);
+    line-height: 1;
+    color: white;
+}
+.blog_content{
+    margin: 10px 0;
+    color: #666;
+}
+.technical_bottom_img{
+    width: 100%;
+}
+.timeLine{
+    margin: 50px 0;
+    position: relative;
+}
+.timeLine_blog{
+    padding: 10px 30px;
+    width: 350px;
+    background: white;
+    border-radius: 5px;
+    margin: auto;
+    position: relative;
+}
+.time_line{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    height: 100%;
+    transform: translate(-50%, -50%);
+    border: 1px solid #aaa;
+}
+.timeLine_header{
+    font-size: 20px;
+    font-weight: bold;
+    color: #14093e;      
+    text-align: center;
+}
+.timeLine_img{
+    position: relative;
+}
+.timeLine_img img{
+    display:block;
+    margin:auto;
+    width: 42px;
+}
+.timeLine_img span{
+    position: absolute;
+    top: 22px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    line-height: 1;
+    color: white;
+}
+.timeLine_blog_odd{
+    padding: 20px 30px;
+    margin-left: calc(50% - 325px);
+}
+.timeLine_blog_even{
+    padding: 20px 30px;
+    margin-left: calc(50% - 40px);
+}
+.timeLine_blog p{    
+    margin-bottom: 5px;
+}
+.timeLine .blogColor-1{
+    color: #7869e0;
+}
+.timeLine .blogColor-2{
+    color: #89ba19;
+}
+.timeLine .blogColor-3{
+    color: #f8a028;
+}
+.content_3{
+    padding: 80px 0;
+}
+.key_mechanics{
+    display: table;
+    font-size: 35px;
+    margin-bottom: 35px;
+    background-image: linear-gradient(to right, #8860d0, #5580e9 54%, #5ab8eb);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: bold;
+}
+.mechanics_content, .mechanics_content img{
+    position: relative;
+}
+.mechanics_line{
+    border: 1px solid #aaa;
+    position: absolute;
+    left: 9px;
+    height: 100%;
+    top: 5px;
+}
+.mechanics_text{
+    line-height: 1.7;
+    margin-top: -25px;
+    margin-left: 40px;
+}
+.mechanics_note{
+    line-height: 1.7;
+    padding: 30px;
+    border: 1px solid #aaa;
+    border-radius: 5px;
+    background: #eee;
+}
+.contract{
+    margin-left: 40px;
+    line-height: 1.7;
+}
+.contract p{
+    font-size: 35px;
+    color: #14093e;
+    margin-bottom:20px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.contract_blog{
+    border:1px solid #aaa;
+    border-radius: 5px;
+    padding:20px 30px;
+    position: relative;  
+}
+.ml_50{
+    margin-left: 50px;
+}
+.contract_blog_number{
+    text-align: center;
+    color:white;
+    width: 25px;
+    height: 25px;
+    float: left;
+    vertical-align: middle;
+    position: absolute;
+    top: 50%;
+    left: 35px;
+    transform: translate(-50%, -50%);
+}
+.contract_number_1{
+    background: url(../img/technical_img1.png);
+    background-size: 100%;
+}
+.contract_number_2{
+    background: url(../img/technical_img2.png);
+    background-size: 100%;
+}
+.contract_number_3{
+    background: url(../img/technical_img3.png);
+    background-size: 100%;
+}
+.contract_number_4{
+    background: url(../img/technical_img4.png);
+    background-size: 100%;
+}
+.contract_number_5{
+    background: url(../img/technical_img5.png);
+    background-size: 100%;
+}
+.contract_number_6{
+    background: url(../img/technical_img6.png);
+    background-size: 100%;
+}
+.contract_bottom_text{
+    line-height: 2;
+    margin-top: 30px;
+}
+
+/* fight paper css */
+#paper_pdf{
+    max-width: 900px;
+    width: 70%;
+    margin: 50px auto;
+    border: 1px solid #aaa;
+    height: 900px;
+}
+
+@media (max-width: 767px){
+    #paper_pdf{
+        height: 300px !important;
+    }
+}

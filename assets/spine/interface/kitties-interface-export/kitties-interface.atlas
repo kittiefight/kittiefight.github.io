@@ -1,0 +1,97 @@
+
+assets/interface/kitties-interface-export/kitties-interface.png
+size: 737,520
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Black corner
+  rotate: false
+  xy: 140, 261
+  size: 213, 257
+  orig: 213, 257
+  offset: 0, 0
+  index: -1
+Blue background clock
+  rotate: true
+  xy: 2, 9
+  size: 238, 101
+  orig: 238, 101
+  offset: 0, 0
+  index: -1
+Red corner
+  rotate: false
+  xy: 150, 2
+  size: 203, 257
+  orig: 203, 257
+  offset: 0, 0
+  index: -1
+Scale
+  rotate: true
+  xy: 2, 2
+  size: 5, 4
+  orig: 5, 4
+  offset: 0, 0
+  index: -1
+background icons 1
+  rotate: false
+  xy: 564, 347
+  size: 171, 171
+  orig: 171, 171
+  offset: 0, 0
+  index: -1
+background icons 2
+  rotate: false
+  xy: 564, 174
+  size: 171, 171
+  orig: 171, 171
+  offset: 0, 0
+  index: -1
+clock rim
+  rotate: true
+  xy: 2, 249
+  size: 269, 136
+  orig: 269, 136
+  offset: 0, 0
+  index: -1
+frame icons 1
+  rotate: false
+  xy: 355, 311
+  size: 207, 207
+  orig: 207, 207
+  offset: 0, 0
+  index: -1
+frame icons 2
+  rotate: false
+  xy: 355, 102
+  size: 207, 207
+  orig: 207, 207
+  offset: 0, 0
+  index: -1
+glare 0
+  rotate: true
+  xy: 564, 10
+  size: 162, 83
+  orig: 162, 83
+  offset: 0, 0
+  index: -1
+glare 01
+  rotate: true
+  xy: 649, 112
+  size: 60, 66
+  orig: 60, 66
+  offset: 0, 0
+  index: -1
+glare on the clock
+  rotate: true
+  xy: 105, 25
+  size: 222, 43
+  orig: 222, 43
+  offset: 0, 0
+  index: -1
+shading DNA
+  rotate: false
+  xy: 105, 12
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1

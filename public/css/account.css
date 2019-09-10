@@ -1,0 +1,357 @@
+.account {
+    margin-top: 75px;
+}
+
+.nav-tabs .nav-item {
+    margin-left: 0;
+    border-color: #e9ecef #e9ecef #dee2e6;
+}
+
+.nav-tabs {
+    border-bottom: 0;
+}
+
+.account .nav-link {
+    color: #b4b4b4;
+    background-color: #f4f4f4;
+    border-bottom: 1px solid #e9ecef;
+}
+
+a.nav-link:hover {
+    color: #5ab7eb;
+}
+
+.nav-tabs .nav-link.active {
+    color: #5ab7eb;
+    background-color: #fff;
+    border-color: #dee2e6 #dee2e6 #fff;
+}
+
+.tab-content {
+    border: 1px solid #e9ecef;
+    border-bottom: 0;
+    border-radius: 0 10px 0 0;
+    padding: 50px 100px;
+    box-shadow: 0px 26px 30px -6px rgba(0, 0, 0, 0.5);
+}
+
+@media (min-width: 1200px) {
+    .balance_text {
+        font-size: 35px;
+    }
+    .balance_num {
+        font-size: 109px;
+    }
+    .token {
+        font-size: 30px;
+    }
+}
+
+@media (min-width: 992px) {
+    .balance_text {
+        font-size: 28px;
+    }
+    .balance_num {
+        font-size: 80px;
+    }
+    .token {
+        font-size: 24px;
+    }
+}
+
+@media (max-width: 991px) {
+    .diamond {
+        width: 50%;
+    }
+    .tab-content {
+        padding: 50px !important;
+    }
+    .card-head {
+        font-size: 18px !important;
+    }
+}
+
+@media (min-width: 768px) {
+    .balance_text {
+        font-size: 28px;
+    }
+    .balance_num {
+        font-size: 80px;
+    }
+    .token {
+        font-size: 24px;
+    }
+}
+
+@media (max-width: 767px) {
+    .balance_text {
+        font-size: 28px;
+    }
+    .balance_num {
+        font-size: 80px;
+    }
+    .token {
+        font-size: 24px;
+    }
+    .tab-content {
+        padding: 0px 30px 30px 30px !important;
+    }
+    .diamond {
+        margin: 10px auto !important;
+    }
+    .right_content {
+        padding: 20px !important;
+    }
+    .bonus_btn {
+        width: 90% !important;
+        margin-left: 5%;
+    }
+    .superneum_fee {
+        padding: 20px !important;
+    }
+    .guide {
+        margin-top: 15px !important;
+        padding: 10px 20px 20px 20px !important;
+    }
+    .mb-3 {
+        margin-bottom: 0px !important;
+    }
+}
+
+.balance_text {
+    color: #00beee;
+    font-weight: bold;
+}
+
+.balance_num {
+    color: #12214b;
+    font-weight: bold;
+    line-height: 1;
+}
+
+.token {
+    color: #12214b;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.eth {
+    font-family: Lato;
+    padding: 5px;
+    border-top: 1px solid #aaa;
+    border-bottom: 1px solid #aaa;
+    color: #12214b;
+}
+
+.vertical-line {
+    border-right: 1px solid #ddd;
+    margin: 0 10px;
+}
+
+.diamond {
+    /* width: 100%; */
+    margin: 40px auto;
+}
+
+.right_content {
+    padding: 40px;
+    box-shadow: 0px -15px 52px -20px rgba(0, 0, 0, 0.5);
+}
+
+.right_text {
+    padding: 0 15px;
+}
+
+.rect {
+    width: 0;
+    height: 0;
+    float: left;
+    margin-top: 5px;
+    border: 7px solid transparent;
+    border-bottom-color: #5ab7eb;
+    position: relative;
+    top: -7px;
+}
+
+.rect:after {
+    content: '';
+    position: absolute;
+    left: -7px;
+    top: 7px;
+    width: 0;
+    height: 0;
+    border: 7px solid transparent;
+    border-top-color: #5ab7eb;
+}
+
+.bonus_btn {
+    width: 100%;
+    color: white;
+    cursor: pointer;
+    padding: 5px;
+    border-radius: 5px;
+    margin-top: 30px;
+}
+
+.bonus_btn:hover {
+    background-image: linear-gradient(to top, #12214b, #3a316c);
+}
+
+.text_1,
+.text_2 {
+    margin-left: 20px;
+}
+
+.text_1 {
+    margin-bottom: 20px;
+}
+
+.superneum_fee {
+    margin: 30px 0;
+    padding: 20px 40px;
+    font-family: Lato;
+    background-color: #f1f3fe;
+    border-radius: 13px;
+    color: #12214b;
+    line-height: 1.8;
+}
+
+.w_150 {
+    width: 150px;
+}
+
+.send_exchange .card,
+.stake_burn .card {
+    margin-bottom: 30px;
+}
+
+.card-head {
+    padding: 5px;
+    text-align: center;
+    color: white;
+    font-size: 24px;
+    background-color: #3a4a75;
+}
+
+.card-body {
+    padding: 30px;
+    padding-top: 20px;
+    border: 1px solid #aaa;
+    border-top: 0px;
+}
+
+.card text {
+    background-color: #ebebeb;
+}
+
+.card button {
+    cursor: pointer;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.card button:hover {
+    background-image: linear-gradient(to top, #12214b, #3a316c);
+}
+
+.guide {
+    background-color: #edf0fd;
+    padding: 30px 50px;
+    margin-top: 30px;
+}
+
+.guide span.rect {
+    border-bottom-color: #7086c4;
+}
+
+.guide span.rect:after {
+    border-top-color: #7086c4;
+}
+
+.guide_title {
+    color: #12214b;
+    font-size: 24px;
+    text-align: center;
+}
+
+.guide_text {
+    margin-left: 25px;
+    line-height: 1.6;
+}
+
+.activity_title {
+    font-weight: bold;
+    color: #12214b;
+    text-align: center;
+    font-size: 40px;
+    line-height: 1;
+    margin-bottom: 50px;
+}
+
+.account_img {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    margin-top: 10px;
+}
+
+.date {
+    color: #aaaaaa;
+}
+
+.description {
+    font-size: 18px;
+    font-weight: bold;
+    color: #31323d;
+    line-height: 1.4;
+    margin: 0 20px;
+}
+
+.account_content {
+    display: inline-flex;
+}
+
+.successfull,
+.time_out {
+    height: 40px;
+    margin-top: 32px;
+}
+
+@media (max-width: 767px) {
+    .activity_title {
+        font-size: 32px !important;
+    }
+    .account_content {
+        display: block !important;
+    }
+    .successfull,
+    .time_out {
+        height: 30px !important;
+        margin-top: 20px;
+    }
+    .description {
+        margin: 20px 0 0 0 !important;
+    }
+    .account_img {
+        margin-top: 0px !important;
+    }
+    .more_activity {
+        width: 100% !important;
+    }
+}
+
+.more_activity {
+    display: block;
+    width: 450px;
+    padding: 10px;
+    font-size: 18px;
+    cursor: pointer;
+    color: white;
+    margin: 40px auto 0 auto;
+}
+
+.more_activity:hover {
+    background-image: linear-gradient(to top, #12214b, #3a316c);
+}
+
+.diamond {}
