@@ -1,0 +1,74 @@
+{
+  "skeleton": {
+    "hash": "UJpzCBZtP+2Kbozrm6RlIgI3TCU",
+    "spine": "3.6.53",
+    "width": 1748.67,
+    "height": 153,
+    "images": "../background/images/"
+  },
+  "bones": [
+    { "name": "root" },
+    { "name": "cont", "parent": "root", "x": -1132.31, "y": -831.67 },
+    { "name": "c1", "parent": "cont", "x": 388.17, "y": 1426.16 },
+    { "name": "c2", "parent": "cont", "x": 1502.69, "y": 1439.61 },
+    { "name": "c3", "parent": "cont", "x": 1699.3, "y": 1412.58 },
+    { "name": "c4", "parent": "cont", "x": 2026.14, "y": 1386.37 }
+  ],
+  "slots": [
+    { "name": "c4", "bone": "c4", "attachment": "c4" },
+    { "name": "c3", "bone": "c3", "attachment": "c3" },
+    { "name": "c2", "bone": "c2", "attachment": "c2" },
+    { "name": "c1", "bone": "c1", "attachment": "c1" }
+  ],
+  "skins": {
+    "default": {
+      "c1": { "c1": { "x": 10.33, "y": 13.54, "width": 113, "height": 85 } },
+      "c2": { "c2": { "x": -2.62, "y": 6.75, "width": 182, "height": 99 } },
+      "c3": { "c3": { "x": 2.2, "y": 5.78, "width": 83, "height": 71 } },
+      "c4": { "c4": { "x": 1.03, "y": 4.99, "width": 127, "height": 97 } }
+    }
+  },
+  "events": { "plate-popup-sound": {} },
+  "animations": {
+    "idle-cloud1-loop": {
+      "bones": {
+        "c1": {
+          "translate": [
+            { "time": 0, "x": 1975.43, "y": 0 },
+            { "time": 33.3333, "x": -471.68, "y": 0 }
+          ]
+        }
+      }
+    },
+    "idle-cloud2-loop": {
+      "bones": {
+        "c2": {
+          "translate": [
+            { "time": 0, "x": 394.8, "y": 0 },
+            { "time": 26.6, "x": -2120.29, "y": 0 }
+          ]
+        }
+      }
+    },
+    "idle-cloud3-loop": {
+      "bones": {
+        "c3": {
+          "translate": [
+            { "time": 0, "x": 683.58, "y": 14.76 },
+            { "time": 50, "x": -471.68, "y": 0 }
+          ]
+        }
+      }
+    },
+    "idle-cloud4-loop": {
+      "bones": {
+        "c4": {
+          "translate": [
+            { "time": 0, "x": 394.8, "y": 0 },
+            { "time": 33.3333, "x": -2120.29, "y": 0 }
+          ]
+        }
+      }
+    }
+  }
+}

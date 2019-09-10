@@ -1,0 +1,51 @@
+.content_top{
+    background: url(../img/pattern-kat.png);
+    height: 200px;
+    background-size: 100%;
+    text-align: center;
+}
+.content_top img{
+    width:150px;
+    margin-top: 8px;
+}
+
+@media (min-width: 1200px) and (min-width: 992px){
+    .content .container {
+        max-width: 900px;
+    }
+}
+.content_bottom{
+    padding: 80px 0;
+}
+.content_bottom_head{
+    display: table;
+    margin: auto;
+    font-size: 35px;
+    margin-bottom: 15px;
+    background-image: linear-gradient(to right, #8860d0, #5580e9 54%, #5ab8eb);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: bold;
+}
+
+.faq_head{
+    text-align: center;
+    font-size:24px;
+    color: #aaa;
+    margin-bottom: 20px;
+}
+.faq_details, .faq_title{
+    background: #F6F5FA;
+    cursor: pointer;
+}
+.faq_title{
+    padding: 10px 30px;
+}
+.faq_title .fa{
+    margin-right: 20px;
+}
+.faq_details{
+    display: none;
+    padding: 0 30px 10px 65px;
+}
