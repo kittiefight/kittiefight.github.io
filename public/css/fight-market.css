@@ -1,0 +1,153 @@
+.select_box {
+    overflow: hidden;
+    position: relative;
+}
+
+.select_box:after {
+    top: 15px;
+    right: 30px;
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-top: 10px solid #aaa;
+    position: absolute;
+    content: "";
+}
+
+.select_box select {
+    -moz-appearance: none;
+    /* Firefox */
+    -webkit-appearance: none;
+    /* Safari and Chrome */
+    appearance: none;
+    position: relative;
+}
+
+.form-control:focus {
+    box-shadow: none;
+}
+
+.border_search {
+    border: 1px solid #03c3f4;
+}
+
+.bg_search {
+    background-color: #03c3f4;
+}
+
+.container h2.mb-0 {
+    text-align: center;
+}
+
+.card {
+    margin-top: 30px;
+    border: none;
+    box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.5);
+}
+
+.card-body img {
+    width: 100%;
+}
+
+select {
+    cursor: pointer;
+}
+
+
+/* pagination */
+
+.paginationjs li {
+    border-radius: 50% !important;
+}
+
+.paginationjs-prev {
+    margin-right: 20px;
+    border: 1px solid #aaa !important;
+}
+
+.paginationjs-next {
+    margin-left: 20px;
+    border: 1px solid #aaa !important;
+}
+
+.paginationjs-prev a:hover {
+    background-color: white !important;
+    color: #aaa !important;
+}
+
+.paginationjs-next a:hover {
+    background-color: white !important;
+    color: #aaa !important;
+}
+
+.paginationjs-ellipsis a {
+    color: black !important;
+    font-size: 22px !important;
+}
+
+.paginationjs-page {
+    background: #e9ecef;
+    border-radius: 50%;
+}
+
+.paginationjs-page {
+    margin-right: 5px;
+}
+
+.paginationjs-page:last-of-type {
+    margin-right: 0;
+}
+
+
+/* end pagination */
+
+@media (min-width: 768px) and (max-width: 1199px) {
+    .card-head h3 {
+        font-size: 1.5rem;
+    }
+    .card-footer {
+        font-size: 14px !important;
+    }
+}
+
+@media (max-width: 767px) {
+    .search {
+        margin-top: 20px;
+    }
+}
+
+.diamond_button {
+    margin: auto;
+}
+
+.diamond {
+    max-width: 170px;
+}
+
+.listButton {
+    font-size: 24px;
+    color: white;
+    padding: 5px 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-left: 40px;
+    background-image: linear-gradient(to right, #8860d0, #5580e9 54%, #5ab8eb);
+}
+
+.listButton:hover {
+    background-image: linear-gradient(to top, #12214b, #3a316c);
+}
+
+@media (max-width:575px) {
+    .diamond {
+        margin-left: 28%;
+    }
+    .listButton {
+        margin-top: 20px;
+        margin-left: 13% !important;
+    }
+    .available_card,
+    .not_available_card {
+        width: 80%;
+        margin-left: 10%;
+    }
+}
