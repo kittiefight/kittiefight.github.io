@@ -1,0 +1,67 @@
+{
+  "icons": [
+    {
+      "src": "/icon_180x180.0dda33c7a001ef9fff62cde19eff2394.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_167x167.8a27fa6c7b7fad8914f8059822fb4510.png",
+      "sizes": "167x167",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_152x152.0e4c6ce6fc3cb6cf7c981c5fbdc7806a.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_120x120.b85e9fceb9040f7ee3e229a1adf38ca5.png",
+      "sizes": "120x120",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_512x512.d59ee1a4bb58f1c94e5ca4e7bc84f37f.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.4da388d0ff435ac0236822d931a6125a.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.ed3fa5fc455dd231439dd2c55049ea5f.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_144x144.62f2fab3d069117cba1095eb0f5b0be1.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.d4ec92cfc7278f22ac87cf5472a08111.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.27fbed9bd91f6c09535f78360e257353.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_72x72.ba6ebbd4aa46d31aaa9c9d24635a7302.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    }
+  ],
+  "name": "KittieFIGHT",
+  "short_name": "KittieFIGHT",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "A Mortal Combat style game for Cryptokitties users.",
+  "background_color": "#fafafa",
+  "theme_color": "#b1624d"
+}
